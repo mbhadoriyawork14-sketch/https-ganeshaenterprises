@@ -1,0 +1,184 @@
+﻿[
+    {
+        "id":  "corporate-office-printing",
+        "slug":  "corporate-office-printing",
+        "sourceFile":  "service_Corporate_Office_Printing.html",
+        "title":  "Corporate \u0026 Office Printing",
+        "subtitle":  "Professional Stationery That Elevates Your Business Identity",
+        "image":  "assets/imgs/custom-crops/service-1-corporate-office-hd.png",
+        "icon":  "assets/imgs/custom-crops/service-1-corporate-office-hd.png",
+        "description":  "In business, details matter. Our corporate printing solutions ensure every document you shareâ€\"whether internal or externalâ€\"reflects professionalism and brand consistency. From everyday essentials like notepads to premium certificates, we offer durable, high-quality materials with crisp, clear finishes.",
+        "offerings":  [
+                          "Business Cards (Standard, Matte, Textured, Foil)",
+                          "Company Letterheads \u0026 Envelopes",
+                          "Branded Notepads, Diaries \u0026 Journals",
+                          "Employee ID Cards (RFID, Lanyards)",
+                          "chievement Certificates \u0026 Award Printing",
+                          "NCR Books for invoices, billing \u0026 documentation"
+                      ],
+        "whyChooseUs":  [
+                            "Matching sets for unified office branding",
+                            "Secure ID printing with barcodes \u0026 QR codes",
+                            "Bulk \u0026 recurring print solutions for corporates"
+                        ]
+    },
+    {
+        "id":  "marketing-promotional-printing",
+        "slug":  "marketing-promotional-printing",
+        "sourceFile":  "service_Marketing_\u0026_Promotional_Printing.html",
+        "title":  "Marketing \u0026 Promotional Printing",
+        "subtitle":  "Print-Ready Marketing That Captures Attention",
+        "image":  "assets/imgs/custom-crops/service-2-marketing-promotional-hd.png",
+        "icon":  "assets/imgs/custom-crops/service-2-marketing-promotional-hd.png",
+        "description":  "When it comes to marketing, visuals sell. We help your brand cut through the noise with high-impact, strategically designed promotional prints. Whether youâ€™re hosting an event, launching a product, or running a sale, our prints are designed to drive action.",
+        "offerings":  [
+                          "Flyers, Trifold \u0026 Z-Fold Brochures",
+                          "Event Posters (matte, gloss, or waterproof)",
+                          "Table Tents \u0026 Display Invites",
+                          "Menu Cards (tearproof \u0026 waterproof options)",
+                          "Coupons, Loyalty Cards, and Vouchers",
+                          "Danglers \u0026 POP Display Cards"
+                      ],
+        "whyChooseUs":  [
+                            "Custom sizing and finishes available",
+                            "Folded, die-cut \u0026 perforated formats",
+                            "Design support for campaign rollouts"
+                        ]
+    },
+    {
+        "id":  "customized-merchandise",
+        "slug":  "customized-merchandise",
+        "sourceFile":  "service_Customized_Merchandise.html",
+        "title":  "Customized Merchandise",
+        "subtitle":  "Brandable Everyday Essentials That Build Loyalty",
+        "image":  "assets/imgs/custom-crops/service-3-customized-merchandise-hd.png",
+        "icon":  "assets/imgs/custom-crops/service-3-customized-merchandise-hd.png",
+        "description":  "Promotional products keep your brand visible long after a transaction. We specialize in customizing functional, high-quality merchandise that your customers will use, love, and associate with your brand.",
+        "offerings":  [
+                          "T-Shirts (cotton, dry fit, crop tops)",
+                          "Coffee Mugs (ceramic, steel, travel-friendly)",
+                          "Reusable Bottles (insulated, plastic, steel)",
+                          "Tote Bags, Drawstring Bags, Laptop Sleeves",
+                          "Phone Covers, Badges, Keychains",
+                          "Curated Gift Kits (custom sleeves \u0026 inserts)"
+                      ],
+        "whyChooseUs":  [
+                            "Screen, sublimation, UV \u0026 DTG printing available",
+                            "Long-lasting prints that donâ€™t fade",
+                            "Personalization options for names or occasions"
+                        ]
+    },
+    {
+        "id":  "packaging-labels",
+        "slug":  "packaging-labels",
+        "sourceFile":  "service_Packaging_\u0026_Labels.html",
+        "title":  "Packaging \u0026 Labels",
+        "subtitle":  "Packaging That Tells a Story",
+        "image":  "assets/imgs/custom-crops/service-4-packaging-labels-hd.png",
+        "icon":  "assets/imgs/custom-crops/service-4-packaging-labels-hd.png",
+        "description":  "Your product\u0027s journey starts with packaging. We create custom-designed boxes, sleeves, and labels that tell your story, increase perceived value, and provide critical product infoâ€\"all while keeping sustainability in mind.",
+        "offerings":  [
+                          "Custom Printed Boxes (foldable, magnetic, corrugated)",
+                          "Branding Stickers \u0026 Roll Labels",
+                          "Sleeves for cosmetics, candles, food jars",
+                          "Barcode, SKU \u0026 Serial Number Printing",
+                          "Luxury Gift Boxes with inserts",
+                          "Thank You Cards \u0026 Care Instructions"
+                      ],
+        "whyChooseUs":  [
+                            "Eco-friendly, food-safe, and recyclable materials",
+                            "Compatible with all industriesâ€\"beauty, food, wellness",
+                            "Full design-to-print support available"
+                        ]
+    },
+    {
+        "id":  "large-format-event-printing",
+        "slug":  "large-format-event-printing",
+        "sourceFile":  "service_Large_Format_\u0026_Event_Printing.html",
+        "title":  "Large Format \u0026 Event Printing",
+        "subtitle":  "Bigger Prints. Bolder Impressions.",
+        "image":  "assets/imgs/custom-crops/service-5-large-format-event-hd.png",
+        "icon":  "assets/imgs/custom-crops/service-5-large-format-event-hd.png",
+        "description":  "Want to make a splash at your next event or launch? Our large-format printing solutions bring your brand to life on walls, stages, vehicles, and more. Perfect for bold messaging, event backdrops, and environmental branding.",
+        "offerings":  [
+                          "Outdoor Banners (mesh, flex, blockout)",
+                          "Foam Boards, ACP Panels, Standees",
+                          "Backdrops, Step-and-Repeats, Pop-up Walls",
+                          "Vinyl Stickers for glass, walls \u0026 floors",
+                          "Vehicle Branding Wraps \u0026 Magnetic Decals",
+                          "Photo Booth Panels for events"
+                      ],
+        "whyChooseUs":  [
+                            "Weather-resistant options available",
+                            "Installation support in select locations",
+                            "Sharp, fade-resistant colors"
+                        ]
+    },
+    {
+        "id":  "books-photo-products",
+        "slug":  "books-photo-products",
+        "sourceFile":  "service_Books_\u0026_Photo_Products.html",
+        "title":  "Books \u0026 Photo Products",
+        "subtitle":  "Preserve Stories. Present Professionally.",
+        "image":  "assets/imgs/custom-crops/service-6-books-photo-products-hd.png",
+        "icon":  "assets/imgs/custom-crops/service-6-books-photo-products-hd.png",
+        "description":  "From memory-making to data-sharing, we print books and photo products that combine beauty with durability. Whether it\u0027s a heartfelt photo album or a crisp annual report, we ensure premium finishes and perfect binding every time.",
+        "offerings":  [
+                          "Hardcover \u0026 Softcover Notebooks",
+                          "Annual Reports, Magazines \u0026 Yearbooks",
+                          "Photo Books (Wedding, Baby, Travel Albums)",
+                          "Personalized Diaries \u0026 Planners",
+                          "Calendars (Wall, Desk, Magnetic)",
+                          "Portfolio Books for artists \u0026 designers"
+                      ],
+        "whyChooseUs":  [
+                            "Premium paper options (silk, textured, recycled)",
+                            "Multiple binding styles: spiral, saddle, perfect",
+                            "Edge gilding \u0026 custom covers available"
+                        ]
+    },
+    {
+        "id":  "premium-finishing",
+        "slug":  "premium-finishing",
+        "sourceFile":  "service_Premium_Finishing.html",
+        "title":  "Premium Finishing",
+        "subtitle":  "Finishes That Add a Signature Touch",
+        "image":  "assets/imgs/custom-crops/service-7-premium-finishing-hd.png",
+        "icon":  "assets/imgs/custom-crops/service-7-premium-finishing-hd.png",
+        "description":  "Great print is only half the job. The finishing makes it unforgettable. We offer high-end finishes that not only enhance the look and feel but also communicate brand class and precision.",
+        "offerings":  [
+                          "Foil Stamping (Gold, Silver, Rose Gold, Holographic)",
+                          "Spot UV (highlight specific areas for shine)",
+                          "Embossing \u0026 Debossing (for texture and depth)",
+                          "Velvet Lamination (for soft-touch matte)",
+                          "Die Cutting (custom shapes, windows, folds)"
+                      ],
+        "whyChooseUs":  [
+                            "Precision application on packaging, invites \u0026 cards",
+                            "Compatible with most paper, fabric, and plastic surfaces",
+                            "Finishes that withstand time and handling"
+                        ]
+    },
+    {
+        "id":  "digital-personalized-printing",
+        "slug":  "digital-personalized-printing",
+        "sourceFile":  "service_Digital_\u0026_Personalized_Printing.html",
+        "title":  "Digital \u0026 Personalized Printing",
+        "subtitle":  "Print That Speaks to the Individual",
+        "image":  "assets/imgs/custom-crops/service-8-digital-personalized-hd.png",
+        "icon":  "assets/imgs/custom-crops/service-8-digital-personalized-hd.png",
+        "description":  "Make every print personal. Our digital printing services allow you to print smaller batches with speed and flexibility, plus personalize each pieceâ€\"perfect for special events or marketing that feels one-to-one.",
+        "offerings":  [
+                          "Short-run Booklets \u0026 Cards",
+                          "Variable Data Printing (Names, Addresses, QR codes)",
+                          "Personalized Invites \u0026 Event Collateral",
+                          "Photo Prints on Paper, Canvas, and Gifts",
+                          "Customized Gifts: Mugs, Bottles, Keychains, Frames"
+                      ],
+        "whyChooseUs":  [
+                            "Fast turnaround for low-volume orders",
+                            "Personalization at scaleâ€\"ideal for CRM campaigns",
+                            "Perfect colors on every print"
+                        ]
+    }
+]

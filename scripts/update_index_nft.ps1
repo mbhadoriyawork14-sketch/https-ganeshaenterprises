@@ -1,0 +1,760 @@
+$html = @'
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Top Printing Services in Delhi NCR | Custom & Digital Printing | Ganesha Enterprises</title>
+  <meta name="description" content="Discover premium digital printing and personalized product design at Ganesha Enterprises. Trusted by 5,000+ brands. Fast delivery, global shipping, and unbeatable quality.">
+  <meta name="keywords" content="digital printing Delhi NCR, custom printing Delhi, corporate gifting Delhi, offset printing Naraina, customized merchandise, packaging boxes Delhi">
+  <link rel="canonical" href="https://ganeshaenterprises.in/">
+  <link rel="icon" type="image/svg+xml" href="assets/imgs/logo/favicon.svg">
+  
+  <!-- Open Graph -->
+  <meta property="og:title" content="Top Printing Services in Delhi NCR | Ganesha Enterprises">
+  <meta property="og:description" content="Discover premium digital printing, customized merchandise, and packaging solutions. Trusted by 5,000+ brands.">
+  <meta property="og:type" content="website">
+  <meta property="og:image" content="assets/imgs/feature-5/Welcome_Kit.jpg">
+  <meta property="og:url" content="https://ganeshaenterprises.in/">
+
+  <!-- Font Awesome Icons & Styles -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+  <link rel="stylesheet" href="css/style.css">
+
+  <!-- Structured Data / Schema.org -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "LocalBusiness",
+    "name": "Ganesha Enterprises",
+    "image": "https://ganeshaenterprises.in/assets/imgs/logo/logo.svg",
+    "telephone": "+91-9650044234",
+    "email": "vineet@ganeshaenterprises.in",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Ground floor, B191, Industrial Area Phase I, Block C, Naraina Industrial Area Phase 1",
+      "addressLocality": "New Delhi",
+      "postalCode": "110028",
+      "addressCountry": "IN"
+    },
+    "description": "Leading provider of digital printing, offset printing, corporate gifting, custom merchandise, packaging, and branding in Delhi NCR."
+  }
+  </script>
+</head>
+<body>
+
+  <!-- Top Notification Bar -->
+  <aside class="top-bar">
+    <div class="container">
+      <div class="top-bar-inner">
+        <div class="top-bar-contact">
+          <a href="tel:+919650044234" class="top-bar-item" id="topPhoneLink">
+            <i class="fa-solid fa-phone" style="color:var(--color-accent);"></i>
+            <span>+91-9650044234</span>
+          </a>
+          <a href="mailto:vineet@ganeshaenterprises.in" class="top-bar-item" id="topEmailLink">
+            <i class="fa-solid fa-envelope" style="color:var(--color-accent);"></i>
+            <span>vineet@ganeshaenterprises.in</span>
+          </a>
+          <span class="top-bar-item">
+            <i class="fa-solid fa-location-dot" style="color:var(--color-accent);"></i>
+            <span>Naraina Industrial Area Phase 1, New Delhi</span>
+          </span>
+        </div>
+        <div class="top-bar-links">
+          <a href="https://www.instagram.com/ganeshaent2/" target="_blank" rel="noopener" class="top-bar-item" aria-label="Instagram" id="topInstaLink">
+            <i class="fa-brands fa-instagram"></i>
+          </a>
+          <a href="https://www.facebook.com/" target="_blank" rel="noopener" class="top-bar-item" aria-label="Facebook" id="topFacebookLink">
+            <i class="fa-brands fa-facebook-f"></i>
+          </a>
+        </div>
+      </div>
+    </div>
+  </aside>
+
+  <!-- Sticky Main Floating Navbar (NFT Market Style) -->
+  <header class="header-sticky">
+    <div class="container">
+      <nav class="navbar">
+        <a href="index.html" class="brand-logo" aria-label="Ganesha Enterprises Home">
+          <img src="assets/imgs/logo/logo.svg" alt="Ganesha Enterprises Logo" width="180" height="46">
+        </a>
+
+        <div class="nav-menu">
+          <a href="index.html" class="nav-link active" id="navHome">Home</a>
+          <a href="about.html" class="nav-link" id="navAbout">About Us</a>
+          
+          <div class="has-dropdown">
+            <a href="services.html" class="nav-link" id="navServices">
+              <span>Services</span>
+              <i class="fa-solid fa-chevron-down" style="font-size: 11px;"></i>
+            </a>
+            <div class="dropdown-menu">
+              <a href="services/corporate-office-printing.html" class="dropdown-item"><i class="fa-solid fa-briefcase"></i> Corporate & Office Printing</a>
+              <a href="services/marketing-promotional-printing.html" class="dropdown-item"><i class="fa-solid fa-bullhorn"></i> Marketing & Promotional</a>
+              <a href="services/customized-merchandise.html" class="dropdown-item"><i class="fa-solid fa-shirt"></i> Customized Merchandise</a>
+              <a href="services/packaging-labels.html" class="dropdown-item"><i class="fa-solid fa-box-open"></i> Packaging & Labels</a>
+              <a href="services/large-format-event-printing.html" class="dropdown-item"><i class="fa-solid fa-panorama"></i> Large Format & Event</a>
+              <a href="services/books-photo-products.html" class="dropdown-item"><i class="fa-solid fa-book-open"></i> Books & Photo Products</a>
+              <a href="services/premium-finishing.html" class="dropdown-item"><i class="fa-solid fa-gem"></i> Premium Finishing</a>
+              <a href="services/digital-personalized-printing.html" class="dropdown-item"><i class="fa-solid fa-fingerprint"></i> Digital & Personalized</a>
+            </div>
+          </div>
+
+          <div class="has-dropdown">
+            <a href="products.html" class="nav-link" id="navProducts">
+              <span>Products</span>
+              <i class="fa-solid fa-chevron-down" style="font-size: 11px;"></i>
+            </a>
+            <div class="dropdown-menu">
+              <a href="products.html" class="dropdown-item"><i class="fa-solid fa-table-cells"></i> All Products (90+ Items)</a>
+              <a href="products.html?category=business-essentials" class="dropdown-item"><i class="fa-solid fa-id-card"></i> Business Essentials</a>
+              <a href="products.html?category=love-your-new-look" class="dropdown-item"><i class="fa-solid fa-shirt"></i> Clothing, Caps & Bags</a>
+              <a href="products.html?category=made-by-you" class="dropdown-item"><i class="fa-solid fa-palette"></i> Made by You</a>
+              <a href="products.html?category=home-gifts" class="dropdown-item"><i class="fa-solid fa-mug-hot"></i> Home & Gifts</a>
+            </div>
+          </div>
+
+          <a href="portfolio.html" class="nav-link" id="navPortfolio">Portfolio</a>
+          <a href="blog.html" class="nav-link" id="navBlog">Blogs</a>
+          <a href="contact.html" class="nav-link" id="navContact">Contact</a>
+        </div>
+
+        <div class="nav-actions">
+          <a href="contact.html" class="btn btn-primary" data-open-quote id="btnGetQuoteHeader">
+            <i class="fa-solid fa-bolt"></i>
+            <span>Instant Quote</span>
+          </a>
+          <button id="mobileToggle" class="mobile-toggle" aria-label="Open Navigation Drawer">
+            <i class="fa-solid fa-bars"></i>
+          </button>
+        </div>
+      </nav>
+    </div>
+  </header>
+
+  <!-- Mobile Drawer -->
+  <div id="mobileDrawer" class="mobile-drawer">
+    <div class="drawer-header">
+      <img src="assets/imgs/logo/logo.svg" alt="Ganesha Enterprises" height="38">
+      <button id="drawerClose" class="drawer-close" aria-label="Close Navigation Drawer"><i class="fa-solid fa-xmark"></i></button>
+    </div>
+    <div class="drawer-nav">
+      <a href="index.html" class="drawer-link">Home</a>
+      <a href="about.html" class="drawer-link">About Us</a>
+      <a href="services.html" class="drawer-link">Services</a>
+      <div class="drawer-sublinks">
+        <a href="services/corporate-office-printing.html" class="drawer-sublink">• Corporate & Office Printing</a>
+        <a href="services/marketing-promotional-printing.html" class="drawer-sublink">• Marketing & Promotional Printing</a>
+        <a href="services/customized-merchandise.html" class="drawer-sublink">• Customized Merchandise</a>
+        <a href="services/packaging-labels.html" class="drawer-sublink">• Packaging & Labels</a>
+        <a href="services/large-format-event-printing.html" class="drawer-sublink">• Large Format & Event Printing</a>
+        <a href="services/books-photo-products.html" class="drawer-sublink">• Books & Photo Products</a>
+        <a href="services/premium-finishing.html" class="drawer-sublink">• Premium Finishing</a>
+        <a href="services/digital-personalized-printing.html" class="drawer-sublink">• Digital & Personalized Printing</a>
+      </div>
+      <a href="products.html" class="drawer-link">Products (90+ Items)</a>
+      <div class="drawer-sublinks">
+        <a href="products.html?category=business-essentials" class="drawer-sublink">• Business Essentials</a>
+        <a href="products.html?category=love-your-new-look" class="drawer-sublink">• Clothing, Caps & Bags</a>
+        <a href="products.html?category=made-by-you" class="drawer-sublink">• Made by You</a>
+        <a href="products.html?category=home-gifts" class="drawer-sublink">• Home & Gifts</a>
+      </div>
+      <a href="portfolio.html" class="drawer-link">Portfolio & Work</a>
+      <a href="blog.html" class="drawer-link">Blog & News</a>
+      <a href="contact.html" class="drawer-link">Contact Us</a>
+      <div style="margin-top:20px;">
+        <a href="contact.html" class="btn btn-primary" style="width:100%;" data-open-quote>Request A Quote</a>
+      </div>
+    </div>
+  </div>
+  <div id="mobileOverlay" class="mobile-overlay"></div>
+
+  <!-- Hero Section (NFT Market Tilted Card + Pill Search + Motion Video Background) -->
+  <section class="hero-section">
+    <!-- Seamless Looping Video Background Layer (Direct children) -->
+    <video
+      class="hero-background-video"
+      autoplay
+      muted
+      loop
+      playsinline
+      preload="auto"
+      aria-hidden="true"
+      src="videos/hero-background.mp4"
+    >
+      <source src="/videos/hero-background.mp4" type="video/mp4">
+      <source src="videos/hero-background.mp4" type="video/mp4">
+      <source src="assets/videos/hero-background.mp4" type="video/mp4">
+      <source src="/assets/videos/hero-background.mp4" type="video/mp4">
+    </video>
+
+    <div class="hero-video-overlay" aria-hidden="true"></div>
+
+    <div class="container hero-content-wrap">
+      <div class="hero-grid">
+        <div class="hero-content">
+          <div class="hero-badges">
+            <span class="section-eyebrow">
+              <i class="fa-solid fa-sparkles"></i>
+              <span>Premier Print & Branding Studio</span>
+            </span>
+            <span class="hero-legacy-badge">
+              <i class="fa-solid fa-award" style="margin-right:4px;"></i> 25+ Years Legacy
+            </span>
+          </div>
+
+          <h1 class="hero-title">
+            Next-Gen <span class="text-gradient">Custom Print & Branding</span> Experience.
+          </h1>
+
+          <p class="hero-lead">
+            Discover premium digital printing, offset packaging, and customized corporate merchandise at Ganesha Enterprises. Trusted by 5,000+ brands with fast turnaround and unbeatable quality.
+          </p>
+
+          <!-- Hero Search Pill (NFT Market Signature Component) -->
+          <form class="hero-search-pill" action="products.html" method="GET">
+            <i class="fa-solid fa-magnifying-glass" style="color:var(--color-text-light);font-size:15px;margin-right:4px;"></i>
+            <input type="text" name="q" class="hero-search-input" placeholder="Search 90+ custom products, boxes, merch..." aria-label="Search Products">
+            <div class="hero-search-divider"></div>
+            <select name="category" class="hero-search-select" aria-label="Filter category">
+              <option value="">All Categories</option>
+              <option value="business-essentials">Business Essentials</option>
+              <option value="love-your-new-look">Clothing, Caps & Bags</option>
+              <option value="made-by-you">Made by You</option>
+              <option value="home-gifts">Home & Gifts</option>
+            </select>
+            <button type="submit" class="hero-search-btn" aria-label="Search Catalog"><i class="fa-solid fa-arrow-right"></i></button>
+          </form>
+
+          <div class="hero-features-list">
+            <div class="hero-feature-item">
+              <i class="fa-solid fa-circle-check" style="color:var(--color-accent);"></i>
+              <span>Customizable for Any Brand</span>
+            </div>
+            <div class="hero-feature-item">
+              <i class="fa-solid fa-circle-check" style="color:var(--color-accent);"></i>
+              <span>Unmatched Print Precision</span>
+            </div>
+            <div class="hero-feature-item">
+              <i class="fa-solid fa-circle-check" style="color:var(--color-accent);"></i>
+              <span>Rapid Turnaround Times</span>
+            </div>
+            <div class="hero-feature-item">
+              <i class="fa-solid fa-circle-check" style="color:var(--color-accent);"></i>
+              <span>On-Time, Every Time</span>
+            </div>
+          </div>
+        </div>
+
+        <!-- Signature NFT Market Tilted Card Stack -->
+        <div class="hero-visual">
+          <div class="nft-card-stack">
+            <div class="nft-card-back"></div>
+            <div class="nft-card-main">
+              <div class="nft-card-image-wrap">
+                <img src="assets/imgs/feature-5/Welcome_Kit.jpg" alt="Executive Welcome Kit by Ganesha Enterprises" width="560" height="420">
+                <div class="nft-badge-floating">
+                  <i class="fa-solid fa-award" style="color:var(--color-accent);margin-right:4px;"></i> 25+ Yrs Legacy
+                </div>
+              </div>
+              <div class="nft-card-content">
+                <div class="nft-card-title">Employee Welcome Kit (Set of 5)</div>
+                <div class="nft-card-sub">Bespoke Diary, Metal Pen, Insulated Flask, Keyring & Custom Presentation Box</div>
+                <div class="nft-card-footer">
+                  <div class="nft-avatar-group">
+                    <img src="assets/imgs/Our Clients/Vistara_Logo.png" alt="Client 1">
+                    <img src="assets/imgs/Our Clients/Radisson_logo.png" alt="Client 2">
+                    <img src="assets/imgs/Our Clients/Awfis_new_logo.png" alt="Client 3">
+                    <span class="nft-bidding-text">1,000+ Brands Trust Us</span>
+                  </div>
+                  <div class="nft-like-btn">
+                    <i class="fa-solid fa-heart"></i>
+                    <span>54</span>
+                  </div>
+                </div>
+              </div>
+            </div>
+
+            <!-- Floating Glass Badges -->
+            <div class="floating-stat-badge badge-top-left">
+              <div class="floating-stat-icon"><i class="fa-solid fa-crown"></i></div>
+              <div>
+                <div class="floating-stat-val">5,000+</div>
+                <div class="floating-stat-lbl">Brands Served Globally</div>
+              </div>
+            </div>
+
+            <div class="floating-stat-badge badge-bottom-right">
+              <div class="floating-stat-icon" style="background:var(--gradient-secondary);"><i class="fa-solid fa-bolt"></i></div>
+              <div>
+                <div class="floating-stat-val">Same Day</div>
+                <div class="floating-stat-lbl">Dispatch Available</div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Brand Partners Trust Marquee -->
+  <section class="trust-section">
+    <div class="container">
+      <div class="trust-title">Trusted by Over 1,000+ Global & Local Brands</div>
+      <div class="clients-grid">
+        <div class="client-logo-item"><img src="assets/imgs/Our Clients/Vistara_Logo.png" alt="Vistara Logo" loading="lazy"></div>
+        <div class="client-logo-item"><img src="assets/imgs/Our Clients/SIG_Holding_logo.png" alt="SIG Holding Logo" loading="lazy"></div>
+        <div class="client-logo-item"><img src="assets/imgs/Our Clients/Radisson_logo.png" alt="Radisson Logo" loading="lazy"></div>
+        <div class="client-logo-item"><img src="assets/imgs/Our Clients/Netcracker_Technology_logo.png" alt="Netcracker Technology Logo" loading="lazy"></div>
+        <div class="client-logo-item"><img src="assets/imgs/Our Clients/National_Thermal_Power_logo.png" alt="NTPC Logo" loading="lazy"></div>
+        <div class="client-logo-item"><img src="assets/imgs/Our Clients/Khan_Academy_logo.png" alt="Khan Academy Logo" loading="lazy"></div>
+        <div class="client-logo-item"><img src="assets/imgs/Our Clients/Awfis_new_logo.png" alt="Awfis Logo" loading="lazy"></div>
+        <div class="client-logo-item"><img src="assets/imgs/Our Clients/air_india_new_logo.png" alt="Air India Logo" loading="lazy"></div>
+        <div class="client-logo-item"><img src="assets/imgs/Our Clients/Air_India_Express-Logo.png" alt="Air India Express Logo" loading="lazy"></div>
+      </div>
+    </div>
+  </section>
+
+  <!-- How It Works (NFT 3-Step Minting transformed into Custom Print Workflow) -->
+  <section class="section bg-white">
+    <div class="container">
+      <div class="text-center" style="margin-bottom: 50px;">
+        <span class="section-eyebrow">Seamless Process</span>
+        <h2 class="display-2 section-title">How Custom Printing Works</h2>
+        <p class="section-subtitle mx-auto">From concept and substrate selection to state-of-the-art production and doorstep dispatch.</p>
+      </div>
+
+      <div class="steps-grid">
+        <div class="step-card">
+          <div class="step-number-pill">1</div>
+          <div class="step-card-img-wrap">
+            <img src="assets/imgs/blog/brands-people-0adHvNJu-Zo-unsplash.jpg" alt="Designer reviewing custom branding samples, stationery, and packaging" class="step-card-img" loading="lazy">
+          </div>
+          <h3 class="step-card-title">1. Select & Customize</h3>
+          <p class="step-card-desc">Choose from our 90+ print items across corporate stationery, customized apparel, packaging, and gifts.</p>
+        </div>
+
+        <div class="step-card">
+          <div class="step-number-pill" style="background:var(--gradient-secondary);">2</div>
+          <div class="step-card-img-wrap">
+            <img src="assets/imgs/service-details/istockphoto-475690164-612x612.jpg" alt="Printing technician inspecting printed color proof on press delivery table" class="step-card-img" loading="lazy">
+          </div>
+          <h3 class="step-card-title">2. Proofing & Color Match</h3>
+          <p class="step-card-desc">Receive digital artwork proofs with strict Pantone color calibration and substrate review before press runs.</p>
+        </div>
+
+        <div class="step-card">
+          <div class="step-number-pill" style="background:var(--gradient-accent);">3</div>
+          <div class="step-card-img-wrap">
+            <img src="assets/imgs/blog/bank-phrom-Tzm3Oyu_6sk-unsplash.jpg" alt="Commercial high-speed offset printing press running printed sheets" class="step-card-img" loading="lazy">
+          </div>
+          <h3 class="step-card-title">3. Production & Fast Delivery</h3>
+          <p class="step-card-desc">Rapid manufacturing with precision finishing, securely packaged and dispatched across Delhi NCR, India, and worldwide.</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Trending Products (NFT Market Style "Live Drops" Grid) -->
+  <section class="section bg-subtle">
+    <div class="container">
+      <div style="display:flex;justify-content:space-between;align-items:flex-end;margin-bottom:36px;flex-wrap:wrap;gap:20px;">
+        <div>
+          <span class="section-eyebrow">Live Catalog</span>
+          <h2 class="display-2 section-title">Trending Products & Best Sellers</h2>
+          <p class="section-subtitle" style="margin-bottom:0;">Explore our most popular corporate gifts, drinkware, packaging boxes, and bespoke branding essentials.</p>
+        </div>
+        <a href="products.html" class="btn btn-secondary">
+          <span>Explore All 90+ Products</span>
+          <i class="fa-solid fa-arrow-right"></i>
+        </a>
+      </div>
+
+      <!-- Category Filter Pills -->
+      <div class="category-pills-bar">
+        <a href="products.html" class="cat-pill-btn active">All Items (90+)</a>
+        <a href="products.html?category=business-essentials" class="cat-pill-btn">Business Essentials</a>
+        <a href="products.html?category=love-your-new-look" class="cat-pill-btn">Clothing, Caps & Bags</a>
+        <a href="products.html?category=made-by-you" class="cat-pill-btn">Made by You</a>
+        <a href="products.html?category=home-gifts" class="cat-pill-btn">Home & Gifts</a>
+      </div>
+
+      <div class="products-grid">
+        <!-- Product 1 -->
+        <div class="product-card">
+          <div class="product-card-img-wrap">
+            <span class="product-card-badge">Best Seller</span>
+            <img src="assets/imgs/feature-5/Welcome_Kit.jpg" alt="Employee Welcome Kit" loading="lazy">
+          </div>
+          <div class="product-card-body">
+            <div class="product-card-category">Business Essentials</div>
+            <h3 class="product-card-title">Employee Welcome Kit (Set of 5)</h3>
+            <p class="product-card-desc">Executive corporate joining kit containing customized diary, pen, flask, bottle, and badge in a luxury gift box.</p>
+            <div class="product-card-footer">
+              <span class="product-card-quote-btn" data-open-quote data-product-name="Employee Welcome Kit">
+                <i class="fa-solid fa-calculator"></i> Instant Quote
+              </span>
+              <div class="nft-like-btn"><i class="fa-solid fa-heart"></i> <span>54</span></div>
+            </div>
+          </div>
+        </div>
+
+        <!-- Product 2 -->
+        <div class="product-card">
+          <div class="product-card-img-wrap">
+            <span class="product-card-badge">Drinkware</span>
+            <img src="assets/imgs/feature-5/Vacuum_Flask_with_3 Steel_Cup.jpg" alt="Vacuum Flask with Steel Cup" loading="lazy">
+          </div>
+          <div class="product-card-body">
+            <div class="product-card-category">Home & Gifts</div>
+            <h3 class="product-card-title">Vacuum Flask with 3 Steel Cups</h3>
+            <p class="product-card-desc">Insulated stainless steel vacuum flask with 3 cups in an elegant gift box with custom engraving.</p>
+            <div class="product-card-footer">
+              <span class="product-card-quote-btn" data-open-quote data-product-name="Vacuum Flask with 3 Steel Cups">
+                <i class="fa-solid fa-calculator"></i> Instant Quote
+              </span>
+              <div class="nft-like-btn"><i class="fa-solid fa-heart"></i> <span>42</span></div>
+            </div>
+          </div>
+        </div>
+
+        <!-- Product 3 -->
+        <div class="product-card">
+          <div class="product-card-img-wrap">
+            <span class="product-card-badge">Merch</span>
+            <img src="assets/imgs/prodact/Men_s-Scott-Polo-T-Shirts_Category-page.jpeg" alt="Custom Embroidered Polo T-Shirts" loading="lazy">
+          </div>
+          <div class="product-card-body">
+            <div class="product-card-category">Clothing & Bags</div>
+            <h3 class="product-card-title">Custom Embroidered Polo T-Shirts</h3>
+            <p class="product-card-desc">Heavyweight premium pique cotton polo shirts with high-density brand embroidery or screen print.</p>
+            <div class="product-card-footer">
+              <span class="product-card-quote-btn" data-open-quote data-product-name="Custom Embroidered Polo T-Shirts">
+                <i class="fa-solid fa-calculator"></i> Instant Quote
+              </span>
+              <div class="nft-like-btn"><i class="fa-solid fa-heart"></i> <span>78</span></div>
+            </div>
+          </div>
+        </div>
+
+        <!-- Product 4 -->
+        <div class="product-card">
+          <div class="product-card-img-wrap">
+            <span class="product-card-badge">Packaging</span>
+            <img src="assets/imgs/prodact/Corrugated-Boxes_Labels-_-Stickers_Category-image_1x1.jpeg" alt="Corrugated Boxes" loading="lazy">
+          </div>
+          <div class="product-card-body">
+            <div class="product-card-category">Packaging & Boxes</div>
+            <h3 class="product-card-title">Custom Printed Corrugated Boxes</h3>
+            <p class="product-card-desc">Heavy-duty corrugated mailing and shipping boxes customized with your full-color logo and shipping graphics.</p>
+            <div class="product-card-footer">
+              <span class="product-card-quote-btn" data-open-quote data-product-name="Corrugated Boxes">
+                <i class="fa-solid fa-calculator"></i> Instant Quote
+              </span>
+              <div class="nft-like-btn"><i class="fa-solid fa-heart"></i> <span>63</span></div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Top Service Verticals (NFT Market Creator Leaderboard Style) -->
+  <section class="section bg-white">
+    <div class="container">
+      <div class="text-center" style="margin-bottom: 50px;">
+        <span class="section-eyebrow">Capabilities</span>
+        <h2 class="display-2 section-title">Top 8 Service Verticals</h2>
+        <p class="section-subtitle mx-auto">Explore our specialized commercial offset, digital printing, and finishing departments.</p>
+      </div>
+
+      <div class="services-grid">
+        <div class="service-card">
+          <div class="service-card-img-wrap">
+            <img src="assets/imgs/prodact/IN_Standard-Visiting-Cards_Overview.jpeg" alt="Corporate & Office Printing" class="service-card-img" loading="lazy">
+            <span class="service-rank-badge">#1</span>
+          </div>
+          <div class="service-card-body">
+            <h3 class="service-card-title">Corporate & Office Printing</h3>
+            <p class="service-card-desc">Visiting cards, executive letterheads, envelopes, bill books, ID badges, and corporate stationery reflecting peak professionalism.</p>
+            <a href="services/corporate-office-printing.html" class="service-card-link"><span>Explore Vertical</span> <i class="fa-solid fa-arrow-right"></i></a>
+          </div>
+        </div>
+
+        <div class="service-card">
+          <div class="service-card-img-wrap">
+            <img src="assets/imgs/prodact/flyers_overview-tab.jpeg" alt="Marketing & Promotional Printing" class="service-card-img" loading="lazy">
+            <span class="service-rank-badge">#2</span>
+          </div>
+          <div class="service-card-body">
+            <h3 class="service-card-title">Marketing & Promotional</h3>
+            <p class="service-card-desc">High-impact flyers, multi-fold brochures, product catalogs, posters, and retail banners designed to convert prospects.</p>
+            <a href="services/marketing-promotional-printing.html" class="service-card-link"><span>Explore Vertical</span> <i class="fa-solid fa-arrow-right"></i></a>
+          </div>
+        </div>
+
+        <div class="service-card">
+          <div class="service-card-img-wrap">
+            <img src="assets/imgs/prodact/Employee_Welcome_Kit_-_Set_of_5.jpeg" alt="Customized Merchandise & Corporate Gifts" class="service-card-img" loading="lazy">
+            <span class="service-rank-badge">#3</span>
+          </div>
+          <div class="service-card-body">
+            <h3 class="service-card-title">Customized Merchandise</h3>
+            <p class="service-card-desc">Apparel, caps, tote bags, water bottles, and mugs that customers carry everywhere, turning everyday items into brand ambassadors.</p>
+            <a href="services/customized-merchandise.html" class="service-card-link"><span>Explore Vertical</span> <i class="fa-solid fa-arrow-right"></i></a>
+          </div>
+        </div>
+
+        <div class="service-card">
+          <div class="service-card-img-wrap">
+            <img src="assets/imgs/service-details/packaging.jpg" alt="Packaging & Labels" class="service-card-img" loading="lazy">
+            <span class="service-rank-badge">#4</span>
+          </div>
+          <div class="service-card-body">
+            <h3 class="service-card-title">Packaging & Labels</h3>
+            <p class="service-card-desc">Custom corrugated mailer boxes, rigid gift packaging, roll labels, security seals, and product packaging sleeves.</p>
+            <a href="services/packaging-labels.html" class="service-card-link"><span>Explore Vertical</span> <i class="fa-solid fa-arrow-right"></i></a>
+          </div>
+        </div>
+
+        <div class="service-card">
+          <div class="service-card-img-wrap">
+            <img src="assets/imgs/service-details/360_F_343877993_9Od0iow5UMBwbzcR3uiNUJVpUxPUe2Id.jpg" alt="Large Format & Event Printing Equipment" class="service-card-img" loading="lazy">
+            <span class="service-rank-badge">#5</span>
+          </div>
+          <div class="service-card-body">
+            <h3 class="service-card-title">Large Format & Event</h3>
+            <p class="service-card-desc">Roll-up standees, conference backdrops, vinyl banners, acrylic signs, and trade-show booth graphics.</p>
+            <a href="services/large-format-event-printing.html" class="service-card-link"><span>Explore Vertical</span> <i class="fa-solid fa-arrow-right"></i></a>
+          </div>
+        </div>
+
+        <div class="service-card">
+          <div class="service-card-img-wrap">
+            <img src="assets/imgs/prodact/IN_booklets_tile_001.jpeg" alt="Books & Photo Products" class="service-card-img" loading="lazy">
+            <span class="service-rank-badge">#6</span>
+          </div>
+          <div class="service-card-body">
+            <h3 class="service-card-title">Books & Photo Products</h3>
+            <p class="service-card-desc">Hardcover photo albums, corporate annual reports, catalogs, calendars, and booklets printed on exquisite papers.</p>
+            <a href="services/books-photo-products.html" class="service-card-link"><span>Explore Vertical</span> <i class="fa-solid fa-arrow-right"></i></a>
+          </div>
+        </div>
+
+        <div class="service-card">
+          <div class="service-card-img-wrap">
+            <img src="assets/imgs/blog/mildlee-fMveBTz2qWw-unsplash.jpg" alt="Premium Finishing - Metallic Foil Stamping and Embossing" class="service-card-img" loading="lazy">
+            <span class="service-rank-badge">#7</span>
+          </div>
+          <div class="service-card-body">
+            <h3 class="service-card-title">Premium Finishing</h3>
+            <p class="service-card-desc">Spot UV, metallic foil stamping, embossing, debossing, and velvet matte lamination that make your materials unforgettable.</p>
+            <a href="services/premium-finishing.html" class="service-card-link"><span>Explore Vertical</span> <i class="fa-solid fa-arrow-right"></i></a>
+          </div>
+        </div>
+
+        <div class="service-card">
+          <div class="service-card-img-wrap">
+            <img src="assets/imgs/blog/in-tr-ng-d-ng-daZPDnz9lQY-unsplash.jpg" alt="Digital & Personalized Gifts and Printing" class="service-card-img" loading="lazy">
+            <span class="service-rank-badge">#8</span>
+          </div>
+          <div class="service-card-body">
+            <h3 class="service-card-title">Digital & Personalized</h3>
+            <p class="service-card-desc">Variable data printing, personalized executive gifts, direct-to-film apparel prints, and on-demand short runs.</p>
+            <a href="services/digital-personalized-printing.html" class="service-card-link"><span>Explore Vertical</span> <i class="fa-solid fa-arrow-right"></i></a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Dark Mode Callout Banner (NFT Market Dark Edition) -->
+  <div class="container">
+    <div class="dark-cta-section">
+      <img src="assets/imgs/cta/cta-press-banner.png" alt="High Impact Industrial Printing Press Studio" class="dark-cta-bg-art" loading="lazy">
+      <div class="dark-cta-content">
+        <span class="section-eyebrow" style="background:rgba(255,255,255,0.1);color:#ffffff;border-color:rgba(255,255,255,0.2);"><i class="fa-solid fa-sparkles" style="margin-right:6px;color:#c084fc;"></i> Direct Delhi NCR Press Studio</span>
+        <h2 class="dark-cta-title">Ready to Elevate Your Brand With High-Impact Printing?</h2>
+        <p class="dark-cta-desc">Speak directly with our print production specialists. We offer free digital sample proofing, bulk volume discounts, and express pan-India dispatch.</p>
+        <div class="dark-cta-btns">
+          <a href="https://wa.me/919650044234?text=Hello%20Ganesha%20Enterprises%2C%20I%20would%20like%20to%20request%20a%20quote" target="_blank" rel="noopener" class="btn btn-primary btn-lg">
+            <i class="fa-brands fa-whatsapp"></i>
+            <span>Chat On WhatsApp</span>
+          </a>
+          <a href="tel:+919650044234" class="btn btn-outline-white btn-lg">
+            <i class="fa-solid fa-phone"></i>
+            <span>Call +91-9650044234</span>
+          </a>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- FAQs Section -->
+  <section class="section bg-white">
+    <div class="container">
+      <div class="text-center" style="margin-bottom: 40px;">
+        <span class="section-eyebrow">Got Questions?</span>
+        <h2 class="display-2 section-title">Frequently Asked Questions</h2>
+        <p class="section-subtitle mx-auto">Everything you need to know about placing custom orders, proofing, and delivery.</p>
+      </div>
+
+      <div class="faqs-container">
+        <div class="faq-item is-open">
+          <div class="faq-question">
+            <span>What printing technologies do you utilize at Ganesha Enterprises?</span>
+            <i class="fa-solid fa-chevron-down"></i>
+          </div>
+          <div class="faq-answer">
+            We operate state-of-the-art multi-color offset presses for high-volume commercial printing, high-resolution digital presses for fast on-demand runs, wide-format eco-solvent & UV flatbed printers for signage, and specialized thermal/DTF equipment for apparel and drinkware.
+          </div>
+        </div>
+
+        <div class="faq-item">
+          <div class="faq-question">
+            <span>What is the typical turnaround time for orders?</span>
+            <i class="fa-solid fa-chevron-down"></i>
+          </div>
+          <div class="faq-answer">
+            Standard digital print jobs and corporate stationery are typically ready within 24 to 48 hours. Large-format, custom-packaged merchandise, and bulk offset runs usually require 3 to 5 business days. Express same-day service is available for urgent events.
+          </div>
+        </div>
+
+        <div class="faq-item">
+          <div class="faq-question">
+            <span>Can I inspect a sample or digital proof before mass production?</span>
+            <i class="fa-solid fa-chevron-down"></i>
+          </div>
+          <div class="faq-answer">
+            Yes, absolutely. We provide complimentary digital PDF proofs with color calibration indicators for all jobs. For high-volume corporate merchandise and packaging boxes, physical pre-production samples can be produced upon request.
+          </div>
+        </div>
+
+        <div class="faq-item">
+          <div class="faq-question">
+            <span>Do you offer bulk volume pricing and corporate accounts?</span>
+            <i class="fa-solid fa-chevron-down"></i>
+          </div>
+          <div class="faq-answer">
+            Yes! We specialize in corporate gifting, annual stationery contracts, and bulk packaging. Tiered wholesale volume pricing is automatically applied as order quantities increase. Contact our studio directly for custom quote proposals.
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Dark Footer (NFT Market Design) -->
+  <footer class="footer-dark">
+    <div class="container">
+      <div class="footer-grid">
+        <div class="footer-brand">
+          <img src="assets/imgs/logo/logo.svg" alt="Ganesha Enterprises" height="42">
+          <p>
+            Ganesha Enterprises is a premier print production house based in Naraina Industrial Area, New Delhi. With 25+ years of craft, we deliver corporate gifting, packaging, and commercial offset solutions.
+          </p>
+          <div class="footer-social-links">
+            <a href="https://www.instagram.com/ganeshaent2/" target="_blank" rel="noopener" class="footer-social-icon" aria-label="Instagram"><i class="fa-brands fa-instagram"></i></a>
+            <a href="https://www.facebook.com/" target="_blank" rel="noopener" class="footer-social-icon" aria-label="Facebook"><i class="fa-brands fa-facebook-f"></i></a>
+            <a href="https://wa.me/919650044234" target="_blank" rel="noopener" class="footer-social-icon" aria-label="WhatsApp"><i class="fa-brands fa-whatsapp"></i></a>
+            <a href="https://g.co/kgs/FR5wZph" target="_blank" rel="noopener" class="footer-social-icon" aria-label="Google Maps"><i class="fa-solid fa-location-dot"></i></a>
+          </div>
+        </div>
+
+        <div>
+          <div class="footer-col-title">Quick Links</div>
+          <ul class="footer-links">
+            <li><a href="index.html">Home</a></li>
+            <li><a href="about.html">About Ganesha Enterprises</a></li>
+            <li><a href="services.html">All Services</a></li>
+            <li><a href="products.html">Product Catalog (90+ Items)</a></li>
+            <li><a href="portfolio.html">Client Work & Portfolio</a></li>
+            <li><a href="blog.html">Articles & Print News</a></li>
+            <li><a href="contact.html">Contact & Request Quote</a></li>
+          </ul>
+        </div>
+
+        <div>
+          <div class="footer-col-title">Core Services</div>
+          <ul class="footer-links">
+            <li><a href="services/corporate-office-printing.html">Corporate & Office Printing</a></li>
+            <li><a href="services/marketing-promotional-printing.html">Marketing & Promotional</a></li>
+            <li><a href="services/customized-merchandise.html">Customized Merchandise</a></li>
+            <li><a href="services/packaging-labels.html">Packaging & Labels</a></li>
+            <li><a href="services/large-format-event-printing.html">Large Format & Event</a></li>
+            <li><a href="services/books-photo-products.html">Books & Photo Products</a></li>
+            <li><a href="services/premium-finishing.html">Premium Finishing</a></li>
+          </ul>
+        </div>
+
+        <div>
+          <div class="footer-col-title">Get In Touch</div>
+          <p style="font-size:0.9rem;color:#94a3b8;line-height:1.6;margin-bottom:12px;">
+            <strong style="color:#ffffff;">Studio Address:</strong><br>
+            Ground floor, B191, Industrial Area Phase I, Block C, Naraina, New Delhi 110028
+          </p>
+          <p style="font-size:0.9rem;color:#94a3b8;line-height:1.6;margin-bottom:16px;">
+            <strong style="color:#ffffff;">Direct Line:</strong> +91-9650044234<br>
+            <strong style="color:#ffffff;">Email:</strong> vineet@ganeshaenterprises.in
+          </p>
+          <div class="footer-newsletter-pill">
+            <input type="email" placeholder="Your corporate email..." aria-label="Corporate Email">
+            <button type="button">Subscribe</button>
+          </div>
+        </div>
+      </div>
+
+      <div class="footer-bottom">
+        <div>
+          © 2026 Ganesha Enterprises. All Rights Reserved. Delhi NCR's Trusted Printing Partner.
+        </div>
+        <div>
+          <a href="privacy-policy.html">Privacy Policy</a>
+          <a href="terms-and-conditions.html">Terms & Conditions</a>
+          <a href="sitemap.xml">Sitemap</a>
+        </div>
+      </div>
+    </div>
+  </footer>
+
+  <!-- Modal Quote Dialog -->
+  <div id="quoteModal" class="modal-overlay">
+    <div class="modal-content">
+      <button id="modalClose" class="modal-close" aria-label="Close Modal"><i class="fa-solid fa-xmark"></i></button>
+      <span class="section-eyebrow" style="margin-bottom:8px;">Instant Quotation</span>
+      <h3 style="font-size:1.6rem;font-weight:800;color:var(--color-primary);margin-bottom:6px;">Request A Custom Print Quote</h3>
+      <p style="font-size:0.9rem;color:var(--color-text-muted);margin-bottom:24px;">Submit your requirements and connect instantly on WhatsApp with our studio manager.</p>
+      
+      <form id="quoteForm">
+        <div class="form-group">
+          <label class="form-label" for="quoteName">Full Name *</label>
+          <input type="text" id="quoteName" class="form-control" required placeholder="e.g. Vineet Kumar">
+        </div>
+        <div class="form-group">
+          <label class="form-label" for="quotePhone">Phone / WhatsApp Number *</label>
+          <input type="tel" id="quotePhone" class="form-control" required placeholder="e.g. 9650044234">
+        </div>
+        <div class="form-group">
+          <label class="form-label" for="quoteProduct">Product / Service Needed</label>
+          <input type="text" id="quoteProduct" class="form-control" placeholder="e.g. Employee Welcome Kit (100 sets)">
+        </div>
+        <div class="form-group">
+          <label class="form-label" for="quoteNotes">Quantity & Custom Details</label>
+          <textarea id="quoteNotes" class="form-control" rows="3" placeholder="Specify quantity, print size, finishing (Spot UV, Foil, etc.)..."></textarea>
+        </div>
+        <button type="submit" class="btn btn-primary" style="width:100%;">
+          <i class="fa-brands fa-whatsapp"></i>
+          <span>Send To WhatsApp (+91-9650044234)</span>
+        </button>
+      </form>
+    </div>
+  </div>
+
+  <script src="js/main.js"></script>
+</body>
+</html>
+'@
+
+[System.IO.File]::WriteAllText('c:\Users\digi2\OneDrive\Desktop\demo for Gaesha Enterprises\index.html', $html, [System.Text.Encoding]::UTF8)
+Write-Output "Successfully updated index.html with NFT Market theme"

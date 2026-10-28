@@ -1,0 +1,38 @@
+# Environment & Secrets
+.env
+.env.*
+!.env.example
+
+# Large Design Files (Exceeds GitHub 100MB single-file limit)
+*.fig
+*.bin
+
+# Temporary Renders & Inspection Captures
+render_*.png
+hero_actual_render.png
+cta_actual_render.png
+raw_video_frame.png
+figma_thumbnail.png
+nft_market_preview.png
+
+# Scratch & Temporary Directories
+scratch/
+*.tmp
+*.log
+
+# Dependencies & Build Caches (if added in the future)
+node_modules/
+.npm/
+dist/
+build/
+
+# Operating System Clutter
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# Editor & IDE Directories
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace

@@ -1,0 +1,93 @@
+﻿{
+    "title":  "Top Printing Services in Delhi NCR | Ganesha Enterprises â€“ Custom \u0026 Digital Printing",
+    "metaDescription":  "Discover premium digital printing and personalized product design at Ganesha Enterprises. Trusted by 5,000+ brands. Fast delivery, global shipping, and unbeatable quality.",
+    "hero":  {
+                 "eyebrow":  "Welcome To Ganesha Enterprises",
+                 "heading":  "Product Design \u0026 Custom Printing Solutions",
+                 "description":  "Discover premium digital printing and personalized product design at Ganesha Enterprises. Trusted by 5,000+ brands. Fast delivery, global shipping, and unbeatable quality.",
+                 "ctaPrimary":  "Explore Products",
+                 "ctaSecondary":  "Get A Quote",
+                 "phone":  "+91-9650044234"
+             },
+    "keySellingPoints":  [
+                             {
+                                 "title":  "Customizable for Any Brand",
+                                 "description":  "Tailored printing solutions built around your exact brand guidelines, logos, and custom dimensions.",
+                                 "icon":  "assets/imgs/custom-crops/service-3-customized-merchandise-hd.png"
+                             },
+                             {
+                                 "title":  "Unmatched Print Quality",
+                                 "description":  "High-definition output with sharp details, true-to-life color calibration, and premium substrates.",
+                                 "icon":  "assets/imgs/custom-crops/process-2-proofing-color-match-hd.png"
+                             },
+                             {
+                                 "title":  "Fast Turnaround Times",
+                                 "description":  "Swift execution from prepress proofing to production, ensuring your deadlines are always met.",
+                                 "icon":  "assets/imgs/custom-crops/process-3-production-fast-delivery-hd.png"
+                             },
+                             {
+                                 "title":  "On-Time, Every Time",
+                                 "description":  "Dependable nationwide delivery and courier logistics you can count on for every critical event.",
+                                 "icon":  "assets/imgs/custom-crops/service-1-corporate-office-hd.png"
+                             }
+                         ],
+    "featuredShowcase":  [
+                             {
+                                 "title":  "Employee Welcome Kit",
+                                 "image":  "assets/imgs/feature-5/Welcome_Kit.jpg",
+                                 "badge":  "Best Seller",
+                                 "category":  "Corporate Joining Kit"
+                             },
+                             {
+                                 "title":  "Vacuum Flask with Steel Cup",
+                                 "image":  "assets/imgs/feature-5/Vacuum_Flask_with_3 Steel_Cup.jpg",
+                                 "badge":  "Premium Corporate Gift",
+                                 "category":  "Drinkware \u0026 Executive Gifts"
+                             },
+                             {
+                                 "title":  "Standard Visiting Cards",
+                                 "image":  "assets/imgs/prodact/IN_Standard-Visiting-Cards_Overview.jpeg",
+                                 "badge":  "Business Essential",
+                                 "category":  "Stationery"
+                             },
+                             {
+                                 "title":  "Men\u0027s Scott Polo T-Shirts",
+                                 "image":  "assets/imgs/prodact/Men_s-Scott-Polo-T-Shirts_Category-page.jpeg",
+                                 "badge":  "Apparel",
+                                 "category":  "Corporate Uniforms"
+                             },
+                             {
+                                 "title":  "Acrylic Desk Calendar",
+                                 "image":  "assets/imgs/prodact/IN_Acrylic-photo-Calendar_Overview_01.jpeg",
+                                 "badge":  "Personalised",
+                                 "category":  "Desk Essentials"
+                             },
+                             {
+                                 "title":  "Roll-Up Standees \u0026 Banners",
+                                 "image":  "assets/imgs/prodact/IN_Standees_Overview.jpeg",
+                                 "badge":  "Event Branding",
+                                 "category":  "Large Format Signs"
+                             }
+                         ],
+    "aboutTeaser":  {
+                        "eyebrow":  "About Us",
+                        "heading":  "Professional Digital Printing.",
+                        "p1":  "At Ganesha Enterprises, we specialize in professional digital printing solutions that combine quality, speed, and creativity â€” all without stretching your budget. Whether you\u0027re a small business, a startup, or a large enterprise, we deliver customized print solutions to bring your brand to life.",
+                        "p2":  "With state-of-the-art machinery, skilled experts, and a passion for detail, we handle everything from paper and cardstock printing to vinyl and large-format branding, helping you create high-impact marketing materials that speak volumes.",
+                        "experienceBadge":  "25+ Years of experience in printing service",
+                        "highlights":  [
+                                           "Printing on paper, vinyl, and specialty materials",
+                                           "Small \u0026 large-format printing (flyers, banners, brochures, etc.)",
+                                           "Custom packaging, labels \u0026 stickers",
+                                           "Branded merchandise like T-shirts, mugs, bags \u0026 more",
+                                           "Fully personalized print-on-demand solutions",
+                                           "Design support for brand assets \u0026 marketing materials"
+                                       ]
+                    },
+    "emergencyBanner":  {
+                            "heading":  "Do you have an emergency design service?",
+                            "description":  "Need rush orders or urgent design adjustments for an upcoming corporate event, trade show, or product launch? Our dedicated team is on standby to assist you immediately.",
+                            "phone":  "+91-9650044234",
+                            "cta":  "Call For Rush Order"
+                        }
+}

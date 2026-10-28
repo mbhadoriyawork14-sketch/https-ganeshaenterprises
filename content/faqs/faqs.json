@@ -1,0 +1,32 @@
+[
+  {
+    "question": "What type of printing services do you offer?",
+    "answer": "We provide a full range of digital and offset printing services including business cards, brochures, banners, packaging, labels, invitations, merchandise printing, and large-format prints.",
+    "category": "General Printing"
+  },
+  {
+    "question": "What is your typical turnaround time?",
+    "answer": "Standard printing orders are usually ready within 2–5 business days depending on quantity and finish. Urgent jobs and same-day printing may be available upon request.",
+    "category": "Ordering & Delivery"
+  },
+  {
+    "question": "Is there a minimum order quantity?",
+    "answer": "Most of our digital print services have no minimum order quantity, making it easy for small businesses and individuals to print what they need.",
+    "category": "Ordering & Delivery"
+  },
+  {
+    "question": "How do I place an order?",
+    "answer": "You can place an order through our website, WhatsApp, or by visiting our studio. Just share your requirements, and we'll guide you through the process!",
+    "category": "Ordering & Delivery"
+  },
+  {
+    "question": "Do you deliver?",
+    "answer": "We offer local delivery across Delhi NCR and nationwide shipping. Delivery charges depend on the location and weight of your order.",
+    "category": "Ordering & Delivery"
+  },
+  {
+    "question": "Can I see a sample before final printing?",
+    "answer": "Absolutely! We can provide a digital proof or a physical sample (where applicable) before proceeding with the full print run.",
+    "category": "Design & Sampling"
+  }
+]

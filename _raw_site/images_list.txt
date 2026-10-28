@@ -1,0 +1,171 @@
+﻿assets/imgs/logo/offcanvas-logo.png
+assets/imgs/logo/logo.svg
+assets/imgs/banner-1/small-red.svg
+assets/imgs/banner-1/small-parpale.svg
+assets/imgs/banner-1/small-blue.svg
+assets/imgs/banner-1/blue-dot.svg
+assets/imgs/banner-1/red-dot.svg
+assets/imgs/banner-1/banner-top-1-cart.png
+assets/imgs/banner-1/banner-bottom-2-cart.png
+assets/imgs/banner-1/cup.png
+assets/imgs/banner-1/blue-shape.svg
+assets/imgs/banner-1/parpale-shape.svg
+assets/imgs/banner-1/banner-shape-1.svg
+assets/imgs/banner-1/banner-shape-2.svg
+assets/imgs/banner-1/big-right-shape.png
+assets/imgs/banner-1/revew/Bottle.png
+assets/imgs/feature-5/feature5-shape-01.png
+assets/imgs/feature-5/feature5-shape-02.png
+assets/imgs/feature-5/Welcome_Kit.jpg
+assets/imgs/feature-5/feature5-shape-03.png
+assets/imgs/feature-5/Vacuum_Flask_with_3 Steel_Cup.jpg
+assets/imgs/prodact/IN_Standard-Visiting-Cards_Overview.jpeg
+assets/imgs/prodact/IN_Mypaperclip-Medium-Cost-Diary_Overview.jpeg
+assets/imgs/prodact/Awards_Photo-gifts_Category-image_1x1.jpeg
+assets/imgs/prodact/Men_s-Scott-Polo-T-Shirts_Category-page.jpeg
+assets/imgs/prodact/IN_Acrylic-photo-Calendar_Overview_01.jpeg
+assets/imgs/prodact/IN_Standees_Overview.jpeg
+assets/imgs/latest-about/home-2/about2-bg-shape.svg
+assets/imgs/latest-about/home-2/about2-circle-img1.svg
+assets/imgs/About/flex-printing-services-1696244803-7104957.jpg
+assets/imgs/About/marketing-strategy-planning-strategy-concept_53876-42950.jpg
+assets/imgs/cta/home-2/call.png
+assets/imgs/Icons/banner.png
+assets/imgs/Icons/roll-up.png
+assets/imgs/Icons/flyer.png
+assets/imgs/Icons/cut.png
+assets/imgs/Our Clients/Vistara_Logo.png
+assets/imgs/Our Clients/SIG_Holding_logo.png
+assets/imgs/Our Clients/Radisson_logo.png
+assets/imgs/Our Clients/Netcracker_Technology_logo.png
+assets/imgs/Our Clients/National_Thermal_Power_logo.png
+assets/imgs/Our Clients/Khan_Academy_logo.png
+assets/imgs/Our Clients/Awfis_new_logo.png
+assets/imgs/Our Clients/air_india_new_logo.png
+assets/imgs/Our Clients/Air_India_Express-Logo.png
+assets/imgs/Our Work/WhatsApp Image 2025-06-20 at 19.14.39.jpeg
+assets/imgs/Our Work/WhatsApp Image 2025-06-20 at 19.16.24.jpeg
+assets/imgs/Our Work/WhatsApp Image 2025-06-20 at 19.18.36.jpeg
+assets/imgs/Our Work/WhatsApp Image 2025-06-26 at 11.24.22.jpeg
+assets/imgs/Our Work/WhatsApp Image 2025-06-26 at 11.24.20.jpeg
+assets/imgs/Our Work/WhatsApp Image 2025-06-26 at 11.24.23.jpeg
+assets/imgs/concact/circle.svg
+assets/imgs/blog/bank-phrom-Tzm3Oyu_6sk-unsplash.jpg
+assets/imgs/blog/alexey-demidov-GwyI9juslws-unsplash.png
+assets/imgs/blog/in-tr-ng-d-ng-daZPDnz9lQY-unsplash.jpg
+assets/imgs/footer/logo.svg
+assets/imgs/inner-img/inner-right-shape.svg
+assets/imgs/About/book-printing-banner-0.jpg
+assets/imgs/choose-us/bg-shape.svg
+assets/imgs/Icons/color-scheme.png
+assets/imgs/About/AdobeStock_70903710-scaled.jpeg
+assets/imgs/About/book-printing.jpg
+assets/imgs/faq/Pros-Cons-of-Digital-Printing.jpg
+assets/imgs/service/right-shape.svg
+assets/imgs/service/service-bg-shape.png
+assets/imgs/Icons/printer.png
+assets/imgs/Icons/color-selection.png
+assets/imgs/Icons/stationery.png
+assets/imgs/Icons/package.png
+assets/imgs/Icons/poster.png
+assets/imgs/Icons/book.png
+assets/imgs/Icons/printing.png
+assets/imgs/Icons/customizable.png
+assets/imgs/service-details/geri-sakti-g9_KP2fvFII-unsplash.jpg
+assets/imgs/service-details/istockphoto-519913201-612x612.jpg
+assets/imgs/service-details/360_F_343877993_9Od0iow5UMBwbzcR3uiNUJVpUxPUe2Id.jpg
+assets/imgs/Our Work/Bag (2).jpg
+assets/imgs/prodact/Acrylic-signs_Signs-_-Posters_Category-image_1x1.jpeg
+assets/imgs/prodact/Baggage-Tags_Labels-_-Stickers_Category-image_1x1.jpeg
+assets/imgs/prodact/banner-overview.jpeg
+assets/imgs/prodact/Basic-Polyester-Polo-T-Shirts_Category-page.jpeg
+assets/imgs/prodact/Bill_Books_A5_size.jpeg
+assets/imgs/prodact/bulk_posters.jpeg
+assets/imgs/prodact/Business_Organiser_-_5_X_7_-_Compact.jpeg
+assets/imgs/prodact/Canvas_Deluxe_Cotton_Tote_Bags_14_x_13.jpeg
+assets/imgs/prodact/canvasprint.jpeg
+assets/imgs/prodact/Cello-SS-Hot-Sip-Mug---170ml_Overview.jpeg
+assets/imgs/prodact/Cloth-Linen-Green-Envelopes_Labels-_-Stickers_Category-image_1x1.jpeg
+assets/imgs/prodact/Color-Changing-Mugs_Photo-gifts_Category-image_1x1.jpeg
+assets/imgs/prodact/Corrugated-Boxes_Labels-_-Stickers_Category-image_1x1.jpeg
+assets/imgs/prodact/Courier-Bags_Labels-_-Stickers_Category-image_1x1.jpeg
+assets/imgs/prodact/Cushions_Photo-gifts_Category-image_1x1.jpeg
+assets/imgs/prodact/Custom-Car-Door-Decals_Labels-_-Stickers_Category-image_1x1.jpeg
+assets/imgs/prodact/Custom-Floor-Stickers_Signs-_-Posters_Category-image_1x1.jpeg
+assets/imgs/prodact/dome_sticker_printing.jpeg
+assets/imgs/prodact/embroided_caps.jpeg
+assets/imgs/prodact/Employee_Welcome_Kit_-_Set_of_5.jpeg
+assets/imgs/prodact/Flat-Mailer-Boxes_Labels-_-Stickers_Category-image_1x1.jpeg
+assets/imgs/prodact/Floor-Stickers-Social-Distancing_Signs-_-Posters_Category-image_1x1.jpeg
+assets/imgs/prodact/flyers_overview-tab.jpeg
+assets/imgs/prodact/Fridge-Magnets-Wooden_Photo-gifts_Category-image_1x1.jpeg
+assets/imgs/prodact/IN_Acrylic-Keychains_Overview.jpeg
+assets/imgs/prodact/IN_Acrylic-Paper-Weights_Overview.jpeg
+assets/imgs/prodact/IN_Acrylic-Photo-Prints_Overview.jpeg
+assets/imgs/prodact/IN_Auto-Lock-Boxes_Overview.jpeg
+assets/imgs/prodact/IN_Blue-Overview-Coat_Overview.jpeg
+assets/imgs/prodact/IN_booklets_tile_001.jpeg
+assets/imgs/prodact/IN_Cello-Lexus-SS-Mug--500ml_Overview.jpeg
+assets/imgs/prodact/IN_Ceramic-Pen-Stand_Overview.jpeg
+assets/imgs/prodact/IN_Colored-Canvas-Tote-Bags_Overview.jpeg
+assets/imgs/prodact/IN_cricket_bat_sticker_overview_001.jpeg
+assets/imgs/prodact/IN_Custom-Mug-Black_Overview.jpeg
+assets/imgs/prodact/IN_Custom-Mug-White_Overview.jpeg
+assets/imgs/prodact/IN_Desk-calendars_Overview.jpeg
+assets/imgs/prodact/IN_Eco-Bamboo-Fiber-Mug_Overview.jpeg
+assets/imgs/prodact/IN_Eco-friendly-organisor-kit_Overview.jpeg
+assets/imgs/prodact/IN_Envelope_Seals.jpeg
+assets/imgs/prodact/IN_Folded-hang-tags_Overview.jpeg
+assets/imgs/prodact/IN_Full-Print-Mailer-Boxes_Overview.jpeg
+assets/imgs/prodact/IN_Hang-Tags_Overview_01.jpeg
+assets/imgs/prodact/IN_harissons-jaunty-laptop-Bags_Overview.jpeg
+assets/imgs/prodact/IN_ID-cards_Overview_01.jpeg
+assets/imgs/prodact/IN_Iron-on-Labels_Overview.jpeg
+assets/imgs/prodact/IN_Leather-Passport-Cover_Overview.jpeg
+assets/imgs/prodact/IN_LED-Photo-Frames_Overview.jpeg
+assets/imgs/prodact/IN_Lock-Bottom-Boxes_Overview.jpeg
+assets/imgs/prodact/IN_Mobile-Stand_Overview.jpeg
+assets/imgs/prodact/IN_My-PaperClips-Dairy_Gift-Box-F1_Overview_01.jpeg
+assets/imgs/prodact/IN_Outdoor-Signs_Overview.jpeg
+assets/imgs/prodact/IN_Oval-Metal-Keychain_Overview.jpeg
+assets/imgs/prodact/IN_Paper-bags_Overview.jpeg
+assets/imgs/prodact/IN_Product-and-Packaging-Labels_Overview.jpeg
+assets/imgs/prodact/IN_Puzzles_Overview_01.jpeg
+assets/imgs/prodact/IN_QR-Code-Stickers_Overview.jpeg
+assets/imgs/prodact/IN_Temperature-Bottle_Overview-tile.jpeg
+assets/imgs/prodact/IN_Two-Fold-Umbrella_Overview.jpeg
+assets/imgs/prodact/IN_UV-DTF-Stickers_Overview.jpeg
+assets/imgs/prodact/IN_VisitingcardsStickers.jpeg
+assets/imgs/prodact/IN_Wall-calendars_overview.jpeg
+assets/imgs/prodact/IN-Mailing-Labels-overview.jpeg
+assets/imgs/prodact/IN-Name-Tags-overview.jpeg
+assets/imgs/prodact/IN-phot-magnets-tile-overview.jpeg
+assets/imgs/prodact/IN-photoframes-overview.jpeg
+assets/imgs/prodact/IN-Return-Address-Labels-overview.jpeg
+assets/imgs/prodact/IN-tabletop-standee-tile-001.jpeg
+assets/imgs/prodact/Industrial_Lable_Overview.jpeg
+assets/imgs/prodact/Jack_N_Jones_Round_Neck_T-Shirts_Overview_tile.jpeg
+assets/imgs/prodact/Lab_Coat_-_Full_Sleeve.jpeg
+assets/imgs/prodact/Laptop_Sleeves.jpeg
+assets/imgs/prodact/Metallic_Shopping_Bag_Overview.jpeg
+assets/imgs/prodact/Multipurpose-Boxes_Labels-_-Stickers_Category-image_1x1.jpeg
+assets/imgs/prodact/Multipurpose-Wrapping-Papers_Labels-_-Stickers_Category-image_1x1.jpeg
+assets/imgs/prodact/Packaging-Sleeves_Labels-_-Stickers_Category-image_1x1.jpeg
+assets/imgs/prodact/Personalised-Pen-and-Diary-Combo_Photo-gifts_Category-image_1x1.jpeg
+assets/imgs/prodact/Playing-Cards_Photo-gifts_Category-image_1x1.jpeg
+assets/imgs/prodact/Printed_Apron.jpeg
+assets/imgs/prodact/Reflective_Safety_Vest.jpeg
+assets/imgs/prodact/Self-Adhesive-Tapes_Labels-_-Stickers_Category-image_1x1.jpeg
+assets/imgs/prodact/Table_Top_LED_Frame_Overview.jpeg
+assets/imgs/prodact/tote_bags.jpeg
+assets/imgs/prodact/Transperant-Labels_Labels-_-Stickers_Category-image_1x1.jpeg
+assets/imgs/prodact/USB-flash-drive-001.jpeg
+assets/imgs/prodact/Window-Stickers_Signs-_-Posters_Category-image_1x1.jpeg
+assets/imgs/blog/mika-baumeister-PtabTe6iJ_8-unsplash.jpg
+assets/imgs/blog/brands-people-0adHvNJu-Zo-unsplash.jpg
+assets/imgs/blog/mildlee-fMveBTz2qWw-unsplash.jpg
+assets/imgs/service-details/t-shirt-printing.jpeg
+assets/imgs/service-details/packaging.jpg
+assets/imgs/service-details/istockphoto-475690164-612x612.jpg
+assets/imgs/service-details/1.jpg
+assets/imgs/service-details/pngtree-multiple-prints-of-flowers-on-a-machine-image_2966676.jpg

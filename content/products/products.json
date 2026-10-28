@@ -1,0 +1,902 @@
+﻿[
+    {
+        "id":  "acrylic-signs",
+        "name":  "Acrylic Signs",
+        "slug":  "acrylic-signs",
+        "category":  "Business Essentials",
+        "categorySlug":  "business-essentials",
+        "image":  "assets/imgs/prodact/Acrylic-signs_Signs-_-Posters_Category-image_1x1.jpeg",
+        "rating":  5,
+        "description":  "Premium customized acrylic signs with precision printing and tailored finishes for corporate branding and personalized gifting."
+    },
+    {
+        "id":  "awards",
+        "name":  "Awards",
+        "slug":  "awards",
+        "category":  "Business Essentials",
+        "categorySlug":  "business-essentials",
+        "image":  "assets/imgs/prodact/Awards_Photo-gifts_Category-image_1x1.jpeg",
+        "rating":  5,
+        "description":  "Premium customized awards with precision printing and tailored finishes for corporate branding and personalized gifting."
+    },
+    {
+        "id":  "banner",
+        "name":  "Banner",
+        "slug":  "banner",
+        "category":  "Business Essentials",
+        "categorySlug":  "business-essentials",
+        "image":  "assets/imgs/prodact/banner-overview.jpeg",
+        "rating":  5,
+        "description":  "Premium customized banner with precision printing and tailored finishes for corporate branding and personalized gifting."
+    },
+    {
+        "id":  "bill-books",
+        "name":  "Bill Books",
+        "slug":  "bill-books",
+        "category":  "Business Essentials",
+        "categorySlug":  "business-essentials",
+        "image":  "assets/imgs/prodact/Bill_Books_A5_size.jpeg",
+        "rating":  5,
+        "description":  "Premium customized bill books with precision printing and tailored finishes for corporate branding and personalized gifting."
+    },
+    {
+        "id":  "business-organiser",
+        "name":  "Business Organiser",
+        "slug":  "business-organiser",
+        "category":  "Business Essentials",
+        "categorySlug":  "business-essentials",
+        "image":  "assets/imgs/prodact/Business_Organiser_-_5_X_7_-_Compact.jpeg",
+        "rating":  5,
+        "description":  "Premium customized business organiser with precision printing and tailored finishes for corporate branding and personalized gifting."
+    },
+    {
+        "id":  "custom-car-door-decals",
+        "name":  "Custom Car Door Decals",
+        "slug":  "custom-car-door-decals",
+        "category":  "Business Essentials",
+        "categorySlug":  "business-essentials",
+        "image":  "assets/imgs/prodact/Custom-Car-Door-Decals_Labels-_-Stickers_Category-image_1x1.jpeg",
+        "rating":  5,
+        "description":  "Premium customized custom car door decals with precision printing and tailored finishes for corporate branding and personalized gifting."
+    },
+    {
+        "id":  "dome-sticker",
+        "name":  "Dome Sticker",
+        "slug":  "dome-sticker",
+        "category":  "Business Essentials",
+        "categorySlug":  "business-essentials",
+        "image":  "assets/imgs/prodact/dome_sticker_printing.jpeg",
+        "rating":  5,
+        "description":  "Premium customized dome sticker with precision printing and tailored finishes for corporate branding and personalized gifting."
+    },
+    {
+        "id":  "embroided-caps",
+        "name":  "Embroided Caps",
+        "slug":  "embroided-caps",
+        "category":  "Business Essentials",
+        "categorySlug":  "business-essentials",
+        "image":  "assets/imgs/prodact/embroided_caps.jpeg",
+        "rating":  5,
+        "description":  "Premium customized embroided caps with precision printing and tailored finishes for corporate branding and personalized gifting."
+    },
+    {
+        "id":  "employee-welcome-kit",
+        "name":  "Employee Welcome Kit",
+        "slug":  "employee-welcome-kit",
+        "category":  "Business Essentials",
+        "categorySlug":  "business-essentials",
+        "image":  "assets/imgs/prodact/Employee_Welcome_Kit_-_Set_of_5.jpeg",
+        "rating":  5,
+        "description":  "Premium customized employee welcome kit with precision printing and tailored finishes for corporate branding and personalized gifting."
+    },
+    {
+        "id":  "flyers-overview",
+        "name":  "Flyers Overview",
+        "slug":  "flyers-overview",
+        "category":  "Business Essentials",
+        "categorySlug":  "business-essentials",
+        "image":  "assets/imgs/prodact/flyers_overview-tab.jpeg",
+        "rating":  5,
+        "description":  "Premium customized flyers overview with precision printing and tailored finishes for corporate branding and personalized gifting."
+    },
+    {
+        "id":  "acrylic-paper-weights",
+        "name":  "Acrylic Paper Weights",
+        "slug":  "acrylic-paper-weights",
+        "category":  "Business Essentials",
+        "categorySlug":  "business-essentials",
+        "image":  "assets/imgs/prodact/IN_Acrylic-Paper-Weights_Overview.jpeg",
+        "rating":  5,
+        "description":  "Premium customized acrylic paper weights with precision printing and tailored finishes for corporate branding and personalized gifting."
+    },
+    {
+        "id":  "acrylic-photo-calendar",
+        "name":  "Acrylic Photo Calendar",
+        "slug":  "acrylic-photo-calendar",
+        "category":  "Business Essentials",
+        "categorySlug":  "business-essentials",
+        "image":  "assets/imgs/prodact/IN_Acrylic-photo-Calendar_Overview_01.jpeg",
+        "rating":  5,
+        "description":  "Premium customized acrylic photo calendar with precision printing and tailored finishes for corporate branding and personalized gifting."
+    },
+    {
+        "id":  "coat",
+        "name":  "Coat",
+        "slug":  "coat",
+        "category":  "Business Essentials",
+        "categorySlug":  "business-essentials",
+        "image":  "assets/imgs/prodact/IN_Blue-Overview-Coat_Overview.jpeg",
+        "rating":  5,
+        "description":  "Premium customized coat with precision printing and tailored finishes for corporate branding and personalized gifting."
+    },
+    {
+        "id":  "booklets",
+        "name":  "Booklets",
+        "slug":  "booklets",
+        "category":  "Business Essentials",
+        "categorySlug":  "business-essentials",
+        "image":  "assets/imgs/prodact/IN_booklets_tile_001.jpeg",
+        "rating":  5,
+        "description":  "Premium customized booklets with precision printing and tailored finishes for corporate branding and personalized gifting."
+    },
+    {
+        "id":  "cello-mug",
+        "name":  "Cello Mug",
+        "slug":  "cello-mug",
+        "category":  "Business Essentials",
+        "categorySlug":  "business-essentials",
+        "image":  "assets/imgs/prodact/IN_Cello-Lexus-SS-Mug--500ml_Overview.jpeg",
+        "rating":  5,
+        "description":  "Premium customized cello mug with precision printing and tailored finishes for corporate branding and personalized gifting."
+    },
+    {
+        "id":  "ceramic-pen-stand",
+        "name":  "Ceramic Pen Stand",
+        "slug":  "ceramic-pen-stand",
+        "category":  "Business Essentials",
+        "categorySlug":  "business-essentials",
+        "image":  "assets/imgs/prodact/IN_Ceramic-Pen-Stand_Overview.jpeg",
+        "rating":  5,
+        "description":  "Premium customized ceramic pen stand with precision printing and tailored finishes for corporate branding and personalized gifting."
+    },
+    {
+        "id":  "desk-calendars",
+        "name":  "Desk Calendars",
+        "slug":  "desk-calendars",
+        "category":  "Business Essentials",
+        "categorySlug":  "business-essentials",
+        "image":  "assets/imgs/prodact/IN_Desk-calendars_Overview.jpeg",
+        "rating":  5,
+        "description":  "Premium customized desk calendars with precision printing and tailored finishes for corporate branding and personalized gifting."
+    },
+    {
+        "id":  "bamboo-fiber-mug",
+        "name":  "Bamboo Fiber Mug",
+        "slug":  "bamboo-fiber-mug",
+        "category":  "Business Essentials",
+        "categorySlug":  "business-essentials",
+        "image":  "assets/imgs/prodact/IN_Eco-Bamboo-Fiber-Mug_Overview.jpeg",
+        "rating":  5,
+        "description":  "Premium customized bamboo fiber mug with precision printing and tailored finishes for corporate branding and personalized gifting."
+    },
+    {
+        "id":  "eco-friendly-organisor-kit",
+        "name":  "Eco Friendly Organisor Kit",
+        "slug":  "eco-friendly-organisor-kit",
+        "category":  "Business Essentials",
+        "categorySlug":  "business-essentials",
+        "image":  "assets/imgs/prodact/IN_Eco-friendly-organisor-kit_Overview.jpeg",
+        "rating":  5,
+        "description":  "Premium customized eco friendly organisor kit with precision printing and tailored finishes for corporate branding and personalized gifting."
+    },
+    {
+        "id":  "laptop-bags",
+        "name":  "laptop Bags",
+        "slug":  "laptop-bags",
+        "category":  "Business Essentials",
+        "categorySlug":  "business-essentials",
+        "image":  "assets/imgs/prodact/IN_harissons-jaunty-laptop-Bags_Overview.jpeg",
+        "rating":  5,
+        "description":  "Premium customized laptop bags with precision printing and tailored finishes for corporate branding and personalized gifting."
+    },
+    {
+        "id":  "id-cards",
+        "name":  "ID Cards",
+        "slug":  "id-cards",
+        "category":  "Business Essentials",
+        "categorySlug":  "business-essentials",
+        "image":  "assets/imgs/prodact/IN_ID-cards_Overview_01.jpeg",
+        "rating":  5,
+        "description":  "Premium customized id cards with precision printing and tailored finishes for corporate branding and personalized gifting."
+    },
+    {
+        "id":  "iron-on-labels",
+        "name":  "Iron On Labels",
+        "slug":  "iron-on-labels",
+        "category":  "Business Essentials",
+        "categorySlug":  "business-essentials",
+        "image":  "assets/imgs/prodact/IN_Iron-on-Labels_Overview.jpeg",
+        "rating":  5,
+        "description":  "Premium customized iron on labels with precision printing and tailored finishes for corporate branding and personalized gifting."
+    },
+    {
+        "id":  "mobile-stand",
+        "name":  "Mobile Stand",
+        "slug":  "mobile-stand",
+        "category":  "Business Essentials",
+        "categorySlug":  "business-essentials",
+        "image":  "assets/imgs/prodact/IN_Mobile-Stand_Overview.jpeg",
+        "rating":  5,
+        "description":  "Premium customized mobile stand with precision printing and tailored finishes for corporate branding and personalized gifting."
+    },
+    {
+        "id":  "dairy-gift-box",
+        "name":  "Dairy Gift Box",
+        "slug":  "dairy-gift-box",
+        "category":  "Business Essentials",
+        "categorySlug":  "business-essentials",
+        "image":  "assets/imgs/prodact/IN_My-PaperClips-Dairy_Gift-Box-F1_Overview_01.jpeg",
+        "rating":  5,
+        "description":  "Premium customized dairy gift box with precision printing and tailored finishes for corporate branding and personalized gifting."
+    },
+    {
+        "id":  "dairy",
+        "name":  "Dairy",
+        "slug":  "dairy",
+        "category":  "Business Essentials",
+        "categorySlug":  "business-essentials",
+        "image":  "assets/imgs/prodact/IN_Mypaperclip-Medium-Cost-Diary_Overview.jpeg",
+        "rating":  5,
+        "description":  "Premium customized dairy with precision printing and tailored finishes for corporate branding and personalized gifting."
+    },
+    {
+        "id":  "outdoor-signs",
+        "name":  "Outdoor Signs",
+        "slug":  "outdoor-signs",
+        "category":  "Business Essentials",
+        "categorySlug":  "business-essentials",
+        "image":  "assets/imgs/prodact/IN_Outdoor-Signs_Overview.jpeg",
+        "rating":  5,
+        "description":  "Premium customized outdoor signs with precision printing and tailored finishes for corporate branding and personalized gifting."
+    },
+    {
+        "id":  "standees-overview",
+        "name":  "Standees Overview",
+        "slug":  "standees-overview",
+        "category":  "Business Essentials",
+        "categorySlug":  "business-essentials",
+        "image":  "assets/imgs/prodact/IN_Standees_Overview.jpeg",
+        "rating":  5,
+        "description":  "Premium customized standees overview with precision printing and tailored finishes for corporate branding and personalized gifting."
+    },
+    {
+        "id":  "temperature-bottle",
+        "name":  "Temperature Bottle",
+        "slug":  "temperature-bottle",
+        "category":  "Business Essentials",
+        "categorySlug":  "business-essentials",
+        "image":  "assets/imgs/prodact/IN_Temperature-Bottle_Overview-tile.jpeg",
+        "rating":  5,
+        "description":  "Premium customized temperature bottle with precision printing and tailored finishes for corporate branding and personalized gifting."
+    },
+    {
+        "id":  "visiting-cards-stickers",
+        "name":  "Visiting Cards Stickers",
+        "slug":  "visiting-cards-stickers",
+        "category":  "Business Essentials",
+        "categorySlug":  "business-essentials",
+        "image":  "assets/imgs/prodact/IN_VisitingcardsStickers.jpeg",
+        "rating":  5,
+        "description":  "Premium customized visiting cards stickers with precision printing and tailored finishes for corporate branding and personalized gifting."
+    },
+    {
+        "id":  "mailing-labels",
+        "name":  "Mailing Labels",
+        "slug":  "mailing-labels",
+        "category":  "Business Essentials",
+        "categorySlug":  "business-essentials",
+        "image":  "assets/imgs/prodact/IN-Mailing-Labels-overview.jpeg",
+        "rating":  5,
+        "description":  "Premium customized mailing labels with precision printing and tailored finishes for corporate branding and personalized gifting."
+    },
+    {
+        "id":  "name-tags",
+        "name":  "Name Tags",
+        "slug":  "name-tags",
+        "category":  "Business Essentials",
+        "categorySlug":  "business-essentials",
+        "image":  "assets/imgs/prodact/IN-Name-Tags-overview.jpeg",
+        "rating":  5,
+        "description":  "Premium customized name tags with precision printing and tailored finishes for corporate branding and personalized gifting."
+    },
+    {
+        "id":  "address-labels",
+        "name":  "Address Labels",
+        "slug":  "address-labels",
+        "category":  "Business Essentials",
+        "categorySlug":  "business-essentials",
+        "image":  "assets/imgs/prodact/IN-Return-Address-Labels-overview.jpeg",
+        "rating":  5,
+        "description":  "Premium customized address labels with precision printing and tailored finishes for corporate branding and personalized gifting."
+    },
+    {
+        "id":  "tabletop-standee",
+        "name":  "Tabletop Standee",
+        "slug":  "tabletop-standee",
+        "category":  "Business Essentials",
+        "categorySlug":  "business-essentials",
+        "image":  "assets/imgs/prodact/IN-tabletop-standee-tile-001.jpeg",
+        "rating":  5,
+        "description":  "Premium customized tabletop standee with precision printing and tailored finishes for corporate branding and personalized gifting."
+    },
+    {
+        "id":  "lettering",
+        "name":  "Lettering",
+        "slug":  "lettering",
+        "category":  "Business Essentials",
+        "categorySlug":  "business-essentials",
+        "image":  "assets/imgs/prodact/Laptop_Sleeves.jpeg",
+        "rating":  5,
+        "description":  "Premium customized lettering with precision printing and tailored finishes for corporate branding and personalized gifting."
+    },
+    {
+        "id":  "personalised-pen-diary-combo",
+        "name":  "Personalised Pen \u0026 Diary Combo",
+        "slug":  "personalised-pen-diary-combo",
+        "category":  "Business Essentials",
+        "categorySlug":  "business-essentials",
+        "image":  "assets/imgs/prodact/Personalised-Pen-and-Diary-Combo_Photo-gifts_Category-image_1x1.jpeg",
+        "rating":  5,
+        "description":  "Premium customized personalised pen \u0026 diary combo with precision printing and tailored finishes for corporate branding and personalized gifting."
+    },
+    {
+        "id":  "transperant-labels",
+        "name":  "Transperant Labels",
+        "slug":  "transperant-labels",
+        "category":  "Business Essentials",
+        "categorySlug":  "business-essentials",
+        "image":  "assets/imgs/prodact/Transperant-Labels_Labels-_-Stickers_Category-image_1x1.jpeg",
+        "rating":  5,
+        "description":  "Premium customized transperant labels with precision printing and tailored finishes for corporate branding and personalized gifting."
+    },
+    {
+        "id":  "usb-flash-drive",
+        "name":  "USB Flash Drive",
+        "slug":  "usb-flash-drive",
+        "category":  "Business Essentials",
+        "categorySlug":  "business-essentials",
+        "image":  "assets/imgs/prodact/USB-flash-drive-001.jpeg",
+        "rating":  5,
+        "description":  "Premium customized usb flash drive with precision printing and tailored finishes for corporate branding and personalized gifting."
+    },
+    {
+        "id":  "window-stickers-signs",
+        "name":  "Window Stickers Signs",
+        "slug":  "window-stickers-signs",
+        "category":  "Business Essentials",
+        "categorySlug":  "business-essentials",
+        "image":  "assets/imgs/prodact/Window-Stickers_Signs-_-Posters_Category-image_1x1.jpeg",
+        "rating":  5,
+        "description":  "Premium customized window stickers signs with precision printing and tailored finishes for corporate branding and personalized gifting."
+    },
+    {
+        "id":  "polyester-polo-t-shirts",
+        "name":  "Polyester Polo T-Shirts",
+        "slug":  "polyester-polo-t-shirts",
+        "category":  "Love Your New Look",
+        "categorySlug":  "love-your-new-look",
+        "image":  "assets/imgs/prodact/Basic-Polyester-Polo-T-Shirts_Category-page.jpeg",
+        "rating":  5,
+        "description":  "Premium customized polyester polo t-shirts with precision printing and tailored finishes for corporate branding and personalized gifting."
+    },
+    {
+        "id":  "colored-canvas-tote-bags",
+        "name":  "Colored Canvas Tote Bags",
+        "slug":  "colored-canvas-tote-bags",
+        "category":  "Love Your New Look",
+        "categorySlug":  "love-your-new-look",
+        "image":  "assets/imgs/prodact/IN_Colored-Canvas-Tote-Bags_Overview.jpeg",
+        "rating":  5,
+        "description":  "Premium customized colored canvas tote bags with precision printing and tailored finishes for corporate branding and personalized gifting."
+    },
+    {
+        "id":  "printed-apron",
+        "name":  "Printed Apron",
+        "slug":  "printed-apron",
+        "category":  "Love Your New Look",
+        "categorySlug":  "love-your-new-look",
+        "image":  "assets/imgs/prodact/Printed_Apron.jpeg",
+        "rating":  5,
+        "description":  "Premium customized printed apron with precision printing and tailored finishes for corporate branding and personalized gifting."
+    },
+    {
+        "id":  "reflective-safety-vest",
+        "name":  "Reflective Safety Vest",
+        "slug":  "reflective-safety-vest",
+        "category":  "Love Your New Look",
+        "categorySlug":  "love-your-new-look",
+        "image":  "assets/imgs/prodact/Reflective_Safety_Vest.jpeg",
+        "rating":  5,
+        "description":  "Premium customized reflective safety vest with precision printing and tailored finishes for corporate branding and personalized gifting."
+    },
+    {
+        "id":  "tote-bag",
+        "name":  "Tote Bag",
+        "slug":  "tote-bag",
+        "category":  "Love Your New Look",
+        "categorySlug":  "love-your-new-look",
+        "image":  "assets/imgs/prodact/tote_bags.jpeg",
+        "rating":  5,
+        "description":  "Premium customized tote bag with precision printing and tailored finishes for corporate branding and personalized gifting."
+    },
+    {
+        "id":  "canvasprint",
+        "name":  "Canvasprint",
+        "slug":  "canvasprint",
+        "category":  "Made by You",
+        "categorySlug":  "made-by-you",
+        "image":  "assets/imgs/prodact/canvasprint.jpeg",
+        "rating":  5,
+        "description":  "Premium customized canvasprint with precision printing and tailored finishes for corporate branding and personalized gifting."
+    },
+    {
+        "id":  "cushions-photo",
+        "name":  "Cushions Photo",
+        "slug":  "cushions-photo",
+        "category":  "Made by You",
+        "categorySlug":  "made-by-you",
+        "image":  "assets/imgs/prodact/Cushions_Photo-gifts_Category-image_1x1.jpeg",
+        "rating":  5,
+        "description":  "Premium customized cushions photo with precision printing and tailored finishes for corporate branding and personalized gifting."
+    },
+    {
+        "id":  "fridge-magnets-wooden-photo",
+        "name":  "Fridge Magnets Wooden Photo",
+        "slug":  "fridge-magnets-wooden-photo",
+        "category":  "Made by You",
+        "categorySlug":  "made-by-you",
+        "image":  "assets/imgs/prodact/Fridge-Magnets-Wooden_Photo-gifts_Category-image_1x1.jpeg",
+        "rating":  5,
+        "description":  "Premium customized fridge magnets wooden photo with precision printing and tailored finishes for corporate branding and personalized gifting."
+    },
+    {
+        "id":  "acrylic-keychains",
+        "name":  "Acrylic Keychains",
+        "slug":  "acrylic-keychains",
+        "category":  "Made by You",
+        "categorySlug":  "made-by-you",
+        "image":  "assets/imgs/prodact/IN_Acrylic-Keychains_Overview.jpeg",
+        "rating":  5,
+        "description":  "Premium customized acrylic keychains with precision printing and tailored finishes for corporate branding and personalized gifting."
+    },
+    {
+        "id":  "acrylic-photo-prints",
+        "name":  "Acrylic Photo Prints",
+        "slug":  "acrylic-photo-prints",
+        "category":  "Made by You",
+        "categorySlug":  "made-by-you",
+        "image":  "assets/imgs/prodact/IN_Acrylic-Photo-Prints_Overview.jpeg",
+        "rating":  5,
+        "description":  "Premium customized acrylic photo prints with precision printing and tailored finishes for corporate branding and personalized gifting."
+    },
+    {
+        "id":  "led-photo-frames",
+        "name":  "LED Photo Frames",
+        "slug":  "led-photo-frames",
+        "category":  "Made by You",
+        "categorySlug":  "made-by-you",
+        "image":  "assets/imgs/prodact/IN_LED-Photo-Frames_Overview.jpeg",
+        "rating":  5,
+        "description":  "Premium customized led photo frames with precision printing and tailored finishes for corporate branding and personalized gifting."
+    },
+    {
+        "id":  "oval-metal-keychain",
+        "name":  "Oval Metal Keychain",
+        "slug":  "oval-metal-keychain",
+        "category":  "Made by You",
+        "categorySlug":  "made-by-you",
+        "image":  "assets/imgs/prodact/IN_Oval-Metal-Keychain_Overview.jpeg",
+        "rating":  5,
+        "description":  "Premium customized oval metal keychain with precision printing and tailored finishes for corporate branding and personalized gifting."
+    },
+    {
+        "id":  "puzzles",
+        "name":  "Puzzles",
+        "slug":  "puzzles",
+        "category":  "Made by You",
+        "categorySlug":  "made-by-you",
+        "image":  "assets/imgs/prodact/IN_Puzzles_Overview_01.jpeg",
+        "rating":  5,
+        "description":  "Premium customized puzzles with precision printing and tailored finishes for corporate branding and personalized gifting."
+    },
+    {
+        "id":  "wall-calendars",
+        "name":  "Wall Calendars",
+        "slug":  "wall-calendars",
+        "category":  "Made by You",
+        "categorySlug":  "made-by-you",
+        "image":  "assets/imgs/prodact/IN_Wall-calendars_overview.jpeg",
+        "rating":  5,
+        "description":  "Premium customized wall calendars with precision printing and tailored finishes for corporate branding and personalized gifting."
+    },
+    {
+        "id":  "photo-magnets",
+        "name":  "Photo Magnets",
+        "slug":  "photo-magnets",
+        "category":  "Made by You",
+        "categorySlug":  "made-by-you",
+        "image":  "assets/imgs/prodact/IN-phot-magnets-tile-overview.jpeg",
+        "rating":  5,
+        "description":  "Premium customized photo magnets with precision printing and tailored finishes for corporate branding and personalized gifting."
+    },
+    {
+        "id":  "photo-frames",
+        "name":  "Photo Frames",
+        "slug":  "photo-frames",
+        "category":  "Made by You",
+        "categorySlug":  "made-by-you",
+        "image":  "assets/imgs/prodact/IN-photoframes-overview.jpeg",
+        "rating":  5,
+        "description":  "Premium customized photo frames with precision printing and tailored finishes for corporate branding and personalized gifting."
+    },
+    {
+        "id":  "table-top-led-frame",
+        "name":  "Table Top LED Frame",
+        "slug":  "table-top-led-frame",
+        "category":  "Made by You",
+        "categorySlug":  "made-by-you",
+        "image":  "assets/imgs/prodact/Table_Top_LED_Frame_Overview.jpeg",
+        "rating":  5,
+        "description":  "Premium customized table top led frame with precision printing and tailored finishes for corporate branding and personalized gifting."
+    },
+    {
+        "id":  "cello-hot-sip-mug",
+        "name":  "Cello Hot Sip Mug",
+        "slug":  "cello-hot-sip-mug",
+        "category":  "Home \u0026 Gifts",
+        "categorySlug":  "home-gifts",
+        "image":  "assets/imgs/prodact/Cello-SS-Hot-Sip-Mug---170ml_Overview.jpeg",
+        "rating":  5,
+        "description":  "Premium customized cello hot sip mug with precision printing and tailored finishes for corporate branding and personalized gifting."
+    },
+    {
+        "id":  "color-changing-mugs",
+        "name":  "Color Changing Mugs",
+        "slug":  "color-changing-mugs",
+        "category":  "Home \u0026 Gifts",
+        "categorySlug":  "home-gifts",
+        "image":  "assets/imgs/prodact/Color-Changing-Mugs_Photo-gifts_Category-image_1x1.jpeg",
+        "rating":  5,
+        "description":  "Premium customized color changing mugs with precision printing and tailored finishes for corporate branding and personalized gifting."
+    },
+    {
+        "id":  "custom-black-mug",
+        "name":  "Custom Black Mug",
+        "slug":  "custom-black-mug",
+        "category":  "Home \u0026 Gifts",
+        "categorySlug":  "home-gifts",
+        "image":  "assets/imgs/prodact/IN_Custom-Mug-Black_Overview.jpeg",
+        "rating":  5,
+        "description":  "Premium customized custom black mug with precision printing and tailored finishes for corporate branding and personalized gifting."
+    },
+    {
+        "id":  "custom-white-mug",
+        "name":  "Custom White Mug",
+        "slug":  "custom-white-mug",
+        "category":  "Home \u0026 Gifts",
+        "categorySlug":  "home-gifts",
+        "image":  "assets/imgs/prodact/IN_Custom-Mug-White_Overview.jpeg",
+        "rating":  5,
+        "description":  "Premium customized custom white mug with precision printing and tailored finishes for corporate branding and personalized gifting."
+    },
+    {
+        "id":  "folded-hang-tags",
+        "name":  "Folded Hang Tags",
+        "slug":  "folded-hang-tags",
+        "category":  "Home \u0026 Gifts",
+        "categorySlug":  "home-gifts",
+        "image":  "assets/imgs/prodact/IN_Folded-hang-tags_Overview.jpeg",
+        "rating":  5,
+        "description":  "Premium customized folded hang tags with precision printing and tailored finishes for corporate branding and personalized gifting."
+    },
+    {
+        "id":  "baggage-tags",
+        "name":  "Baggage Tags",
+        "slug":  "baggage-tags",
+        "category":  "Love Your New Look",
+        "categorySlug":  "love-your-new-look",
+        "image":  "assets/imgs/prodact/Baggage-Tags_Labels-_-Stickers_Category-image_1x1.jpeg",
+        "rating":  5,
+        "description":  "High quality custom printed baggage tags designed for durability, vibrant color reproduction, and professional brand presentation."
+    },
+    {
+        "id":  "posters",
+        "name":  "Posters",
+        "slug":  "posters",
+        "category":  "Business Essentials",
+        "categorySlug":  "business-essentials",
+        "image":  "assets/imgs/prodact/bulk_posters.jpeg",
+        "rating":  5,
+        "description":  "High quality custom printed posters designed for durability, vibrant color reproduction, and professional brand presentation."
+    },
+    {
+        "id":  "canvas-cotton-tote-bags",
+        "name":  "Canvas Cotton Tote Bags",
+        "slug":  "canvas-cotton-tote-bags",
+        "category":  "Love Your New Look",
+        "categorySlug":  "love-your-new-look",
+        "image":  "assets/imgs/prodact/Canvas_Deluxe_Cotton_Tote_Bags_14_x_13.jpeg",
+        "rating":  5,
+        "description":  "High quality custom printed canvas cotton tote bags designed for durability, vibrant color reproduction, and professional brand presentation."
+    },
+    {
+        "id":  "cloth-linen-green-envelopes",
+        "name":  "Cloth Linen Green Envelopes",
+        "slug":  "cloth-linen-green-envelopes",
+        "category":  "Business Essentials",
+        "categorySlug":  "business-essentials",
+        "image":  "assets/imgs/prodact/Cloth-Linen-Green-Envelopes_Labels-_-Stickers_Category-image_1x1.jpeg",
+        "rating":  5,
+        "description":  "High quality custom printed cloth linen green envelopes designed for durability, vibrant color reproduction, and professional brand presentation."
+    },
+    {
+        "id":  "corrugated-boxes",
+        "name":  "Corrugated Boxes",
+        "slug":  "corrugated-boxes",
+        "category":  "Business Essentials",
+        "categorySlug":  "business-essentials",
+        "image":  "assets/imgs/prodact/Corrugated-Boxes_Labels-_-Stickers_Category-image_1x1.jpeg",
+        "rating":  5,
+        "description":  "High quality custom printed corrugated boxes designed for durability, vibrant color reproduction, and professional brand presentation."
+    },
+    {
+        "id":  "courier-bags",
+        "name":  "Courier Bags",
+        "slug":  "courier-bags",
+        "category":  "Love Your New Look",
+        "categorySlug":  "love-your-new-look",
+        "image":  "assets/imgs/prodact/Courier-Bags_Labels-_-Stickers_Category-image_1x1.jpeg",
+        "rating":  5,
+        "description":  "High quality custom printed courier bags designed for durability, vibrant color reproduction, and professional brand presentation."
+    },
+    {
+        "id":  "custom-floor-stickers",
+        "name":  "Custom Floor Stickers",
+        "slug":  "custom-floor-stickers",
+        "category":  "Business Essentials",
+        "categorySlug":  "business-essentials",
+        "image":  "assets/imgs/prodact/Custom-Floor-Stickers_Signs-_-Posters_Category-image_1x1.jpeg",
+        "rating":  5,
+        "description":  "High quality custom printed custom floor stickers designed for durability, vibrant color reproduction, and professional brand presentation."
+    },
+    {
+        "id":  "flat-mailer-boxes",
+        "name":  "Flat Mailer Boxes",
+        "slug":  "flat-mailer-boxes",
+        "category":  "Business Essentials",
+        "categorySlug":  "business-essentials",
+        "image":  "assets/imgs/prodact/Flat-Mailer-Boxes_Labels-_-Stickers_Category-image_1x1.jpeg",
+        "rating":  5,
+        "description":  "High quality custom printed flat mailer boxes designed for durability, vibrant color reproduction, and professional brand presentation."
+    },
+    {
+        "id":  "floor-stickers-social-distancing-signs",
+        "name":  "Floor Stickers Social Distancing Signs",
+        "slug":  "floor-stickers-social-distancing-signs",
+        "category":  "Business Essentials",
+        "categorySlug":  "business-essentials",
+        "image":  "assets/imgs/prodact/Floor-Stickers-Social-Distancing_Signs-_-Posters_Category-image_1x1.jpeg",
+        "rating":  5,
+        "description":  "High quality custom printed floor stickers social distancing signs designed for durability, vibrant color reproduction, and professional brand presentation."
+    },
+    {
+        "id":  "auto-loc-boxes",
+        "name":  "Auto Loc Boxes",
+        "slug":  "auto-loc-boxes",
+        "category":  "Business Essentials",
+        "categorySlug":  "business-essentials",
+        "image":  "assets/imgs/prodact/IN_Auto-Lock-Boxes_Overview.jpeg",
+        "rating":  5,
+        "description":  "High quality custom printed auto loc boxes designed for durability, vibrant color reproduction, and professional brand presentation."
+    },
+    {
+        "id":  "cricket-bat-sticker",
+        "name":  "Cricket Bat Sticker",
+        "slug":  "cricket-bat-sticker",
+        "category":  "Business Essentials",
+        "categorySlug":  "business-essentials",
+        "image":  "assets/imgs/prodact/IN_cricket_bat_sticker_overview_001.jpeg",
+        "rating":  5,
+        "description":  "High quality custom printed cricket bat sticker designed for durability, vibrant color reproduction, and professional brand presentation."
+    },
+    {
+        "id":  "envelope-seals",
+        "name":  "Envelope Seals",
+        "slug":  "envelope-seals",
+        "category":  "Business Essentials",
+        "categorySlug":  "business-essentials",
+        "image":  "assets/imgs/prodact/IN_Envelope_Seals.jpeg",
+        "rating":  5,
+        "description":  "High quality custom printed envelope seals designed for durability, vibrant color reproduction, and professional brand presentation."
+    },
+    {
+        "id":  "mailer-boxes",
+        "name":  "Mailer Boxes",
+        "slug":  "mailer-boxes",
+        "category":  "Business Essentials",
+        "categorySlug":  "business-essentials",
+        "image":  "assets/imgs/prodact/IN_Full-Print-Mailer-Boxes_Overview.jpeg",
+        "rating":  5,
+        "description":  "High quality custom printed mailer boxes designed for durability, vibrant color reproduction, and professional brand presentation."
+    },
+    {
+        "id":  "hang-tags",
+        "name":  "Hang Tags",
+        "slug":  "hang-tags",
+        "category":  "Business Essentials",
+        "categorySlug":  "business-essentials",
+        "image":  "assets/imgs/prodact/IN_Hang-Tags_Overview_01.jpeg",
+        "rating":  5,
+        "description":  "High quality custom printed hang tags designed for durability, vibrant color reproduction, and professional brand presentation."
+    },
+    {
+        "id":  "leather-passport-cover",
+        "name":  "Leather Passport Cover",
+        "slug":  "leather-passport-cover",
+        "category":  "Business Essentials",
+        "categorySlug":  "business-essentials",
+        "image":  "assets/imgs/prodact/IN_Leather-Passport-Cover_Overview.jpeg",
+        "rating":  5,
+        "description":  "High quality custom printed leather passport cover designed for durability, vibrant color reproduction, and professional brand presentation."
+    },
+    {
+        "id":  "lock-bottom-boxes",
+        "name":  "Lock Bottom Boxes",
+        "slug":  "lock-bottom-boxes",
+        "category":  "Business Essentials",
+        "categorySlug":  "business-essentials",
+        "image":  "assets/imgs/prodact/IN_Lock-Bottom-Boxes_Overview.jpeg",
+        "rating":  5,
+        "description":  "High quality custom printed lock bottom boxes designed for durability, vibrant color reproduction, and professional brand presentation."
+    },
+    {
+        "id":  "paper-bags",
+        "name":  "Paper Bags",
+        "slug":  "paper-bags",
+        "category":  "Love Your New Look",
+        "categorySlug":  "love-your-new-look",
+        "image":  "assets/imgs/prodact/IN_Paper-bags_Overview.jpeg",
+        "rating":  5,
+        "description":  "High quality custom printed paper bags designed for durability, vibrant color reproduction, and professional brand presentation."
+    },
+    {
+        "id":  "packaging-labels",
+        "name":  "Packaging Labels",
+        "slug":  "packaging-labels",
+        "category":  "Business Essentials",
+        "categorySlug":  "business-essentials",
+        "image":  "assets/imgs/prodact/IN_Product-and-Packaging-Labels_Overview.jpeg",
+        "rating":  5,
+        "description":  "High quality custom printed packaging labels designed for durability, vibrant color reproduction, and professional brand presentation."
+    },
+    {
+        "id":  "qr-code-stickers",
+        "name":  "QR Code Stickers",
+        "slug":  "qr-code-stickers",
+        "category":  "Business Essentials",
+        "categorySlug":  "business-essentials",
+        "image":  "assets/imgs/prodact/IN_QR-Code-Stickers_Overview.jpeg",
+        "rating":  5,
+        "description":  "High quality custom printed qr code stickers designed for durability, vibrant color reproduction, and professional brand presentation."
+    },
+    {
+        "id":  "two-fold-umbrella",
+        "name":  "Two Fold Umbrella",
+        "slug":  "two-fold-umbrella",
+        "category":  "Home \u0026 Gifts",
+        "categorySlug":  "home-gifts",
+        "image":  "assets/imgs/prodact/IN_Two-Fold-Umbrella_Overview.jpeg",
+        "rating":  5,
+        "description":  "High quality custom printed two fold umbrella designed for durability, vibrant color reproduction, and professional brand presentation."
+    },
+    {
+        "id":  "uv-stickers",
+        "name":  "UV Stickers",
+        "slug":  "uv-stickers",
+        "category":  "Business Essentials",
+        "categorySlug":  "business-essentials",
+        "image":  "assets/imgs/prodact/IN_UV-DTF-Stickers_Overview.jpeg",
+        "rating":  5,
+        "description":  "High quality custom printed uv stickers designed for durability, vibrant color reproduction, and professional brand presentation."
+    },
+    {
+        "id":  "industrial-lable",
+        "name":  "Industrial Lable",
+        "slug":  "industrial-lable",
+        "category":  "Business Essentials",
+        "categorySlug":  "business-essentials",
+        "image":  "assets/imgs/prodact/Industrial_Lable_Overview.jpeg",
+        "rating":  5,
+        "description":  "High quality custom printed industrial lable designed for durability, vibrant color reproduction, and professional brand presentation."
+    },
+    {
+        "id":  "branded-round-neck-t-shirt",
+        "name":  "Branded Round Neck T-Shirt",
+        "slug":  "branded-round-neck-t-shirt",
+        "category":  "Love Your New Look",
+        "categorySlug":  "love-your-new-look",
+        "image":  "assets/imgs/prodact/Jack_N_Jones_Round_Neck_T-Shirts_Overview_tile.jpeg",
+        "rating":  5,
+        "description":  "High quality custom printed branded round neck t-shirt designed for durability, vibrant color reproduction, and professional brand presentation."
+    },
+    {
+        "id":  "lab-coat",
+        "name":  "Lab Coat",
+        "slug":  "lab-coat",
+        "category":  "Love Your New Look",
+        "categorySlug":  "love-your-new-look",
+        "image":  "assets/imgs/prodact/Lab_Coat_-_Full_Sleeve.jpeg",
+        "rating":  5,
+        "description":  "High quality custom printed lab coat designed for durability, vibrant color reproduction, and professional brand presentation."
+    },
+    {
+        "id":  "metallic-shopping-bag",
+        "name":  "Metallic Shopping Bag",
+        "slug":  "metallic-shopping-bag",
+        "category":  "Love Your New Look",
+        "categorySlug":  "love-your-new-look",
+        "image":  "assets/imgs/prodact/Metallic_Shopping_Bag_Overview.jpeg",
+        "rating":  5,
+        "description":  "High quality custom printed metallic shopping bag designed for durability, vibrant color reproduction, and professional brand presentation."
+    },
+    {
+        "id":  "multipurpose-boxes",
+        "name":  "Multipurpose Boxes",
+        "slug":  "multipurpose-boxes",
+        "category":  "Business Essentials",
+        "categorySlug":  "business-essentials",
+        "image":  "assets/imgs/prodact/Multipurpose-Boxes_Labels-_-Stickers_Category-image_1x1.jpeg",
+        "rating":  5,
+        "description":  "High quality custom printed multipurpose boxes designed for durability, vibrant color reproduction, and professional brand presentation."
+    },
+    {
+        "id":  "multipurpose-wrapping-papers",
+        "name":  "Multipurpose Wrapping Papers",
+        "slug":  "multipurpose-wrapping-papers",
+        "category":  "Business Essentials",
+        "categorySlug":  "business-essentials",
+        "image":  "assets/imgs/prodact/Multipurpose-Wrapping-Papers_Labels-_-Stickers_Category-image_1x1.jpeg",
+        "rating":  5,
+        "description":  "High quality custom printed multipurpose wrapping papers designed for durability, vibrant color reproduction, and professional brand presentation."
+    },
+    {
+        "id":  "packaging-sleeves",
+        "name":  "Packaging-Sleeves",
+        "slug":  "packaging-sleeves",
+        "category":  "Business Essentials",
+        "categorySlug":  "business-essentials",
+        "image":  "assets/imgs/prodact/Packaging-Sleeves_Labels-_-Stickers_Category-image_1x1.jpeg",
+        "rating":  5,
+        "description":  "High quality custom printed packaging-sleeves designed for durability, vibrant color reproduction, and professional brand presentation."
+    },
+    {
+        "id":  "playing-cards",
+        "name":  "Playing Cards",
+        "slug":  "playing-cards",
+        "category":  "Business Essentials",
+        "categorySlug":  "business-essentials",
+        "image":  "assets/imgs/prodact/Playing-Cards_Photo-gifts_Category-image_1x1.jpeg",
+        "rating":  5,
+        "description":  "High quality custom printed playing cards designed for durability, vibrant color reproduction, and professional brand presentation."
+    },
+    {
+        "id":  "self-adhesive-tapes",
+        "name":  "Self Adhesive Tapes",
+        "slug":  "self-adhesive-tapes",
+        "category":  "Business Essentials",
+        "categorySlug":  "business-essentials",
+        "image":  "assets/imgs/prodact/Self-Adhesive-Tapes_Labels-_-Stickers_Category-image_1x1.jpeg",
+        "rating":  5,
+        "description":  "High quality custom printed self adhesive tapes designed for durability, vibrant color reproduction, and professional brand presentation."
+    }
+]
