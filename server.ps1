@@ -45,7 +45,7 @@ try {
             $stream = $client.GetStream()
             
             # Read request headers with timeout
-            $client.ReceiveTimeout = 3000
+            $client.ReceiveTimeout = 1500
             $client.SendTimeout = 5000
 
             $headerBytes = New-Object System.Collections.Generic.List[byte]
@@ -157,14 +157,16 @@ try {
                     $hBytes = [System.Text.Encoding]::ASCII.GetBytes($respHeader)
                     $stream.Write($hBytes, 0, $hBytes.Length)
 
-                    $fs = [System.IO.File]::OpenRead($localPath)
-                    $buf = New-Object byte[] 65536
-                    while ($true) {
-                        $read = $fs.Read($buf, 0, $buf.Length)
-                        if ($read -le 0) { break }
-                        $stream.Write($buf, 0, $read)
+                    if ($method -ne "HEAD") {
+                        $fs = [System.IO.File]::OpenRead($localPath)
+                        $buf = New-Object byte[] 65536
+                        while ($true) {
+                            $read = $fs.Read($buf, 0, $buf.Length)
+                            if ($read -le 0) { break }
+                            $stream.Write($buf, 0, $read)
+                        }
+                        $fs.Close()
                     }
-                    $fs.Close()
                 }
             } else {
                 $errBody = "404 Not Found: $urlPath"
