@@ -46,3 +46,4 @@ if (-not (Test-Path $indexPath) -or (Get-Item $indexPath).Length -eq 0) {
 Write-Host "====================================================" -ForegroundColor Green
 Write-Host "[build-dist] SUCCESS: dist populated with $fileCount files and $dirCount directories." -ForegroundColor Green
 Write-Host "====================================================" -ForegroundColor Green
+
