@@ -4,4 +4,3 @@ services:
     env: static
     buildCommand: npm run build
     staticPublishPath: ./dist
-
