@@ -1,4 +1,4 @@
-﻿Add-Type -AssemblyName System.Web
+Add-Type -AssemblyName System.Web
 
 $site = Get-Content "content/site-settings.json" -Raw -Encoding UTF8 | ConvertFrom-Json
 $homeData = Get-Content "content/pages/home.json" -Raw -Encoding UTF8 | ConvertFrom-Json
