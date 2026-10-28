@@ -20,10 +20,11 @@ scratch/
 *.tmp
 *.log
 
-# Dependencies & Build Caches (if added in the future)
+# Dependencies & Build Caches
 node_modules/
 .npm/
-dist/
+dist/*
+!dist/.gitkeep
 build/
 
 # Operating System Clutter

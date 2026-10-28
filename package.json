@@ -4,7 +4,7 @@
   "description": "Ganesha Enterprises - Premier Corporate Printing, Merchandise & Packaging in Delhi NCR",
   "main": "server.js",
   "scripts": {
-    "build": "node -e \"console.log('Static assets ready for deployment')\"",
+    "build": "node scripts/build-dist.js",
     "start": "node server.js"
   },
   "keywords": [
@@ -16,3 +16,4 @@
   "author": "Ganesha Enterprises",
   "license": "ISC"
 }
+
