@@ -4,11 +4,19 @@ function Clean-Text($str) {
     if ([string]::IsNullOrEmpty($str)) { return "" }
     $s = [System.Web.HttpUtility]::HtmlDecode($str)
     $s = [regex]::Replace($s, '<[^>]+>', ' ')
-    $s = [regex]::Replace($s, '[â\u0080\u0098\u0099\u2018\u2019]', "'")
-    $s = [regex]::Replace($s, '[â\u0080\u009c\u009d\u201c\u201d]', '"')
-    $s = [regex]::Replace($s, '[â\u0080\u0094\u2014]', ' - ')
-    $s = [regex]::Replace($s, '[â\u0080\u0093\u2013]', '-')
-    $s = [regex]::Replace($s, '[â\u0080\u00a2\u2022]', '•')
+    $s = [regex]::Replace($s, '2[^\w\s]+5', '2-5')
+    $s = $s.Replace([string][char]0x00E2 + [char]0x20AC + [char]0x2122, "'")
+    $s = $s.Replace([string][char]0x00E2 + [char]0x20AC + '"', " - ")
+    $s = $s.Replace([string][char]0x00E2 + [char]0x20AC + [char]0x201C, '"')
+    $s = $s.Replace([string][char]0x00E2 + [char]0x20AC + [char]0x201D, '"')
+    $s = $s.Replace([string][char]0x00E2 + [char]0x20AC + [char]0x2014, " - ")
+    $s = $s.Replace([string][char]0x00E2 + [char]0x20AC + [char]0x2013, "-")
+    $s = $s.Replace([string][char]0x00E2 + [char]0x20AC + [char]0x02DC, "'")
+    $s = [regex]::Replace($s, "[\u2018\u2019']", "'")
+    $s = [regex]::Replace($s, "[\u201C\u201D`"]", '"')
+    $s = [regex]::Replace($s, "[\u2014]", " - ")
+    $s = [regex]::Replace($s, "[\u2013]", "-")
+    $s = [regex]::Replace($s, "[\u2022]", "*")
     $s = [regex]::Replace($s, '\s+', ' ')
     return $s.Trim()
 }
@@ -22,8 +30,8 @@ foreach ($f in $filesToCheck) {
     $p = "_raw_site/pages/$f"
     if (Test-Path $p) {
         $html = Get-Content $p -Raw -Encoding UTF8
-        $matches = [regex]::Matches($html, '(?s)<div class="card[^"]*">\s*<div class="card-header">\s*<(?:button|a)[^>]*>(.*?)</(?:button|a)>\s*</div>\s*<div[^>]*>\s*<div class="card-body">\s*<p>(.*?)</p>')
-        foreach ($m in $matches) {
+        $faqMatches = [regex]::Matches($html, '(?s)<(?:button|a) class="card-link"[^>]*>(.*?)</(?:button|a)>[\s\S]*?<div class="card-body">\s*<p>(.*?)</p>')
+        foreach ($m in $faqMatches) {
             $q = Clean-Text $m.Groups[1].Value
             $a = Clean-Text $m.Groups[2].Value
             if ($q -and $a -and !$seenQuestions.Contains($q)) {
@@ -51,7 +59,7 @@ Write-Host "Wrote content/faqs/faqs.json with $($allFaqs.Count) FAQs"
 # 2. Pages Content
 # Home Page
 $homeData = [ordered]@{
-    title = "Top Printing Services in Delhi NCR | Ganesha Enterprises – Custom & Digital Printing"
+    title = "Top Printing Services in Delhi NCR | Ganesha Enterprises - Custom & Digital Printing"
     metaDescription = "Discover premium digital printing and personalized product design at Ganesha Enterprises. Trusted by 5,000+ brands. Fast delivery, global shipping, and unbeatable quality."
     hero = [ordered]@{
         eyebrow = "Welcome To Ganesha Enterprises"
