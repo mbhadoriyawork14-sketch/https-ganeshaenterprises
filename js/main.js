@@ -1,4 +1,4 @@
-/* ==========================================================================
+﻿/* ==========================================================================
    GANESHA ENTERPRISES - CORE JAVASCRIPT CONTROLLER
    Responsive Interactions, Navigation, Catalog Filtering & Honest Forms
    ========================================================================== */
@@ -10,7 +10,7 @@ document.addEventListener('DOMContentLoaded', () => {
   initQuoteModal();
   initForms();
   initHeroVideo();
-  initProductShowcase();
+  initServiceCardAnimations();
 });
 
 /* --------------------------------------------------------------------------
@@ -325,260 +325,62 @@ function initHeroVideo() {
 }
 
 /* --------------------------------------------------------------------------
-   7. PREMIUM EDITORIAL PRODUCT SHOWCASE & APPLE-INSPIRED MOTION
-   Scroll Stagger Reveals, Tactile Hover, and Accessible Lightbox Modal
+   7. TOP 8 SERVICE VERTICALS - CONTINUOUS INFINITE SHOWCASE CONTROLLER
    -------------------------------------------------------------------------- */
-const showcaseProjects = [
-  {
-    id: 'custom-jute-tote-bag',
-    title: 'Custom Embroidered Jute Tote Bag',
-    client: 'Retail & Merchandise',
-    category: 'Custom Bags & Apparel',
-    image: 'assets/imgs/Our Work/WhatsApp Image 2025-06-20 at 19.14.39.jpeg',
-    objectPosition: 'center center',
-    desc: 'High-durability natural golden jute tote bag crafted with reinforced padded cotton rope handles, laminated water-resistant interior lining, and intricate multi-thread metallic gold geometric embroidery.',
-    substrate: 'Premium Natural Laminated Jute',
-    technique: 'Multi-Thread Computerized Gold Embroidery',
-    turnaround: '3–5 Business Days pan-India',
-    minOrder: '100 Units'
-  },
-  {
-    id: 'vistara-executive-notebook',
-    title: 'Executive Vegan Leather Notebook & Pen Set',
-    client: 'Vistara Airlines',
-    category: 'Corporate Stationery',
-    image: 'assets/imgs/Our Work/WhatsApp Image 2025-06-20 at 19.16.24.jpeg',
-    objectPosition: 'center 35%',
-    desc: 'Bespoke corporate executive notebook with supple saddle-tan vegan PU leather cover, integrated magnetic spine pen-holder sleeve, custom debossed Vistara branding, and matching laser-engraved luxury ballpoint pen.',
-    substrate: '100gsm Acid-Free Ivory Paper & Vegan PU',
-    technique: 'Precision Blind Debossing & Laser Engraving',
-    turnaround: '2–4 Business Days',
-    minOrder: '50 Sets'
-  },
-  {
-    id: 'ntpc-corporate-cap',
-    title: 'Branded Event Twill Baseball Cap',
-    client: 'NTPC',
-    category: 'Apparel & Headwear',
-    image: 'assets/imgs/Our Work/WhatsApp Image 2025-06-20 at 19.18.36.jpeg',
-    objectPosition: 'center 25%',
-    desc: 'Structured 6-panel athletic baseball cap produced in bright white heavy brushed cotton twill. Features vibrant high-density 3D embroidery of the official "Yoga for One Earth, One Health" emblem alongside corporate NTPC insignia.',
-    substrate: 'Heavyweight Brushed 100% Cotton Twill',
-    technique: 'Multi-Thread High-Density Direct Embroidery',
-    turnaround: '3–5 Business Days',
-    minOrder: '100 Caps'
-  },
-  {
-    id: 'gratitude-vacuum-flask',
-    title: 'Matte Black Laser-Engraved Vacuum Flask',
-    client: 'Sargam Steels',
-    category: 'Drinkware & Executive Gifts',
-    image: 'assets/imgs/Our Work/WhatsApp Image 2025-06-26 at 11.24.22.jpeg',
-    objectPosition: 'center 35%',
-    desc: 'Double-wall insulated vacuum thermal bottle in velvet matte black finish, engineered to retain beverage temperature for 24 hours. Custom laser rotary etched with elegant cursive "Gratitude" and corporate branding.',
-    substrate: 'Food-Grade 304 Stainless Steel (500ml)',
-    technique: 'Precision Fiber Laser Rotary Engraving',
-    turnaround: '2–4 Business Days',
-    minOrder: '50 Units'
-  },
-  {
-    id: 'trot-hotels-desk-calendar',
-    title: 'Handcrafted Pine Wood Easel Desk Calendar',
-    client: 'Trot Hotels',
-    category: 'Calendars & Desk Décor',
-    image: 'assets/imgs/Our Work/WhatsApp Image 2025-06-26 at 11.24.20.jpeg',
-    objectPosition: 'center center',
-    desc: 'Minimalist executive desktop calendar featuring a smooth natural solid pine easel stand supporting 12 individual monthly date cards printed on textured fine art stock with precision die-cut rounded corners.',
-    substrate: 'Natural Pine Wood + 300gsm Art Board',
-    technique: 'High-Gamut 4-Color Digital Offset + Die-Cutting',
-    turnaround: '3–5 Business Days',
-    minOrder: '100 Units'
-  },
-  {
-    id: 'air-india-event-badges',
-    title: 'Air India #IamCPRReady Event Button Badges',
-    client: 'Air India',
-    category: 'Event Merchandise & Badges',
-    image: 'assets/imgs/Our Work/WhatsApp Image 2025-06-26 at 11.24.23.jpeg',
-    objectPosition: 'center center',
-    desc: 'Vibrant round event button badges designed for Air India’s #IamCPRReady health & emergency awareness campaign. Features rich corporate purple color matching, high-gloss protective mylar film, and nickel-plated safety pin backing.',
-    substrate: 'Rust-Resistant Tinplate Shell + Gloss Mylar Shield',
-    technique: 'High-Resolution Pantone Digital Print & Die-Press',
-    turnaround: '24–48 Hours Pan-India',
-    minOrder: '200 Badges'
+function initServiceShowcase() {
+  const section = document.getElementById('serviceVerticals') || document.querySelector('.service-verticals-section');
+  if (!section) return;
+
+  const track = section.querySelector('.service-showcase-track');
+  if (!track) return;
+
+  // Reduced-motion accessibility check
+  if (window.matchMedia && window.matchMedia('(prefers-reduced-motion: reduce)').matches) {
+    track.classList.remove('is-active');
+    return;
   }
-];
 
-function initProductShowcase() {
-  const showcaseSection = document.getElementById('productShowcase');
-  if (!showcaseSection) return;
-
-  // 1. Apple-Inspired Scroll-Triggered Reveal via IntersectionObserver
+  // Smooth IntersectionObserver: activates animation when section scrolls into viewport,
+  // and pauses offscreen to conserve CPU, battery, and GPU resources.
   if ('IntersectionObserver' in window) {
     const observer = new IntersectionObserver((entries) => {
       entries.forEach(entry => {
         if (entry.isIntersecting) {
-          showcaseSection.classList.add('is-revealed');
-          observer.unobserve(entry.target);
+          track.classList.add('is-active');
+        } else {
+          track.classList.remove('is-active');
         }
       });
     }, {
       root: null,
-      threshold: 0.12,
-      rootMargin: '0px 0px -40px 0px'
+      threshold: 0.05
     });
-
-    observer.observe(showcaseSection);
+    observer.observe(section);
   } else {
-    // Fallback for older browsers
-    showcaseSection.classList.add('is-revealed');
+    track.classList.add('is-active');
   }
 
-  // 2. Interactive Lightbox Modal Controller
-  const modal = document.getElementById('showcaseModal');
-  if (!modal) return;
-
-  const modalImg = modal.querySelector('.showcase-modal-img');
-  const modalClient = modal.querySelector('.showcase-modal-client span');
-  const modalCategory = modal.querySelector('.showcase-modal-category');
-  const modalTitle = modal.querySelector('.showcase-modal-title');
-  const modalDesc = modal.querySelector('.showcase-modal-desc');
-  const modalSubstrate = modal.querySelector('[data-spec="substrate"]');
-  const modalTechnique = modal.querySelector('[data-spec="technique"]');
-  const modalTurnaround = modal.querySelector('[data-spec="turnaround"]');
-  const modalMinOrder = modal.querySelector('[data-spec="minorder"]');
-  const modalWhatsAppBtn = modal.querySelector('.showcase-modal-whatsapp');
-  const modalCloseBtn = modal.querySelector('.showcase-modal-close');
-  const modalBackdrop = modal.querySelector('.showcase-modal-backdrop');
-  const navPrevBtn = modal.querySelector('.showcase-modal-nav.prev');
-  const navNextBtn = modal.querySelector('.showcase-modal-nav.next');
-
-  let currentProjectIndex = 0;
-  let lastFocusedElement = null;
-
-  function renderModalProject(index) {
-    const project = showcaseProjects[index];
-    if (!project) return;
-
-    currentProjectIndex = index;
-
-    if (modalImg) {
-      modalImg.style.opacity = '0';
-      setTimeout(() => {
-        modalImg.src = project.image;
-        modalImg.alt = project.title;
-        modalImg.style.objectPosition = project.objectPosition || 'center center';
-        modalImg.style.opacity = '1';
-      }, 150);
-    }
-
-    if (modalClient) modalClient.textContent = project.client;
-    if (modalCategory) modalCategory.textContent = project.category;
-    if (modalTitle) modalTitle.textContent = project.title;
-    if (modalDesc) modalDesc.textContent = project.desc;
-    if (modalSubstrate) modalSubstrate.textContent = project.substrate;
-    if (modalTechnique) modalTechnique.textContent = project.technique;
-    if (modalTurnaround) modalTurnaround.textContent = project.turnaround;
-    if (modalMinOrder) modalMinOrder.textContent = project.minOrder;
-
-    if (modalWhatsAppBtn) {
-      const msg = encodeURIComponent(`Hello Ganesha Enterprises, I am inquiring about the ${project.title} (${project.client}) showcased on your website.`);
-      modalWhatsAppBtn.href = `https://wa.me/919650044234?text=${msg}`;
-    }
-  }
-
-  function openModal(index) {
-    lastFocusedElement = document.activeElement;
-    renderModalProject(index);
-    modal.classList.add('is-open');
-    modal.setAttribute('aria-hidden', 'false');
-    document.body.style.overflow = 'hidden';
-
-    // Focus close button for accessibility
-    setTimeout(() => {
-      if (modalCloseBtn) modalCloseBtn.focus();
-    }, 100);
-  }
-
-  function closeModal() {
-    modal.classList.remove('is-open');
-    modal.setAttribute('aria-hidden', 'true');
-    document.body.style.overflow = '';
-    if (lastFocusedElement && typeof lastFocusedElement.focus === 'function') {
-      lastFocusedElement.focus();
-    }
-  }
-
-  function nextProject() {
-    const nextIdx = (currentProjectIndex + 1) % showcaseProjects.length;
-    renderModalProject(nextIdx);
-  }
-
-  function prevProject() {
-    const prevIdx = (currentProjectIndex - 1 + showcaseProjects.length) % showcaseProjects.length;
-    renderModalProject(prevIdx);
-  }
-
-  // Attach click and keyboard events to showcase tiles
-  const tiles = showcaseSection.querySelectorAll('.showcase-tile');
-  tiles.forEach((tile, idx) => {
-    tile.addEventListener('click', (e) => {
-      e.preventDefault();
-      openModal(idx);
-    });
-
-    tile.addEventListener('keydown', (e) => {
-      if (e.key === 'Enter' || e.key === ' ') {
-        e.preventDefault();
-        openModal(idx);
-      }
-    });
-
-    const plusBtn = tile.querySelector('.showcase-plus-btn');
-    if (plusBtn) {
-      plusBtn.addEventListener('click', (e) => {
-        e.stopPropagation();
-        openModal(idx);
-      });
-    }
+  // Robust mouse enter / leave handlers to guarantee pause and hover zoom
+  track.addEventListener('mouseenter', () => {
+    track.classList.add('is-paused');
   });
 
-  // Modal controls
-  if (modalCloseBtn) modalCloseBtn.addEventListener('click', closeModal);
-  if (modalBackdrop) modalBackdrop.addEventListener('click', closeModal);
-  if (navNextBtn) navNextBtn.addEventListener('click', nextProject);
-  if (navPrevBtn) navPrevBtn.addEventListener('click', prevProject);
+  track.addEventListener('mouseleave', () => {
+    track.classList.remove('is-paused');
+  });
 
-  // Keyboard accessibility (Esc to close, Arrow keys to navigate, Tab trap)
-  document.addEventListener('keydown', (e) => {
-    if (!modal.classList.contains('is-open')) return;
-
-    if (e.key === 'Escape') {
-      closeModal();
-    } else if (e.key === 'ArrowRight') {
-      nextProject();
-    } else if (e.key === 'ArrowLeft') {
-      prevProject();
-    } else if (e.key === 'Tab') {
-      // Focus trap within modal
-      const focusableElements = modal.querySelectorAll('button, [href], input, select, textarea, [tabindex]:not([tabindex="-1"])');
-      if (focusableElements.length === 0) return;
-
-      const firstElement = focusableElements[0];
-      const lastElement = focusableElements[focusableElements.length - 1];
-
-      if (e.shiftKey) {
-        if (document.activeElement === firstElement) {
-          e.preventDefault();
-          lastElement.focus();
-        }
-      } else {
-        if (document.activeElement === lastElement) {
-          e.preventDefault();
-          firstElement.focus();
-        }
-      }
-    }
+  const cards = track.querySelectorAll('.service-card');
+  cards.forEach(card => {
+    card.addEventListener('mouseenter', () => {
+      card.classList.add('is-hovered');
+    });
+    card.addEventListener('mouseleave', () => {
+      card.classList.remove('is-hovered');
+    });
   });
 }
 
+// Retain alias for clean initialization
+function initServiceCardAnimations() {
+  initServiceShowcase();
+}
